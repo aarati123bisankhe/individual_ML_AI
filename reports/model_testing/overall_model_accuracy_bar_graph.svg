@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="580" viewBox="0 0 980 580">
+<rect width="100%" height="100%" fill="#f7faf8"/>
+<text x="490.0" y="38" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#1d4d3a" text-anchor="middle">Overall Model Testing Snapshot</text>
+<text x="490.0" y="62" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#4b6357" text-anchor="middle">Primary metric used for each current AI/ML model</text>
+<line x1="120" y1="500" x2="930" y2="500" stroke="#6b7f74" stroke-width="1.5"/>
+<line x1="120" y1="500" x2="120" y2="80" stroke="#6b7f74" stroke-width="1.5"/>
+<line x1="120" y1="500.0" x2="930" y2="500.0" stroke="#d7e2dc" stroke-width="1"/>
+<text x="110" y="504.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">0.00</text>
+<line x1="120" y1="416.0" x2="930" y2="416.0" stroke="#d7e2dc" stroke-width="1"/>
+<text x="110" y="420.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">0.32</text>
+<line x1="120" y1="332.0" x2="930" y2="332.0" stroke="#d7e2dc" stroke-width="1"/>
+<text x="110" y="336.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">0.64</text>
+<line x1="120" y1="248.0" x2="930" y2="248.0" stroke="#d7e2dc" stroke-width="1"/>
+<text x="110" y="252.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">0.96</text>
+<line x1="120" y1="164.0" x2="930" y2="164.0" stroke="#d7e2dc" stroke-width="1"/>
+<text x="110" y="168.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">1.28</text>
+<line x1="120" y1="80.0" x2="930" y2="80.0" stroke="#d7e2dc" stroke-width="1"/>
+<text x="110" y="84.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">1.60</text>
+<rect x="120" y="106.25" width="165.07520766294994" height="52.5" fill="#2a7f62" rx="5"/>
+<text x="105" y="136.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Customer Segmentation</text>
+<text x="295.07520766294994" y="136.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2a7f62" text-anchor="start">0.3268</text>
+<rect x="120" y="211.25" width="674.9999999999999" height="52.5" fill="#d08c60" rx="5"/>
+<text x="105" y="241.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Demand Forecasting</text>
+<text x="804.9999999999999" y="241.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#d08c60" text-anchor="start">1.3363</text>
+<rect x="120" y="316.25" width="150.37603831474968" height="52.5" fill="#8b5fbf" rx="5"/>
+<text x="105" y="346.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Recommendation Engine</text>
+<text x="280.3760383147497" y="346.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8b5fbf" text-anchor="start">0.2977</text>
+<rect x="120" y="421.25" width="348.3854673351792" height="52.5" fill="#2e6ea6" rx="5"/>
+<text x="105" y="451.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Scan-to-Pay Anomaly Detection</text>
+<text x="478.3854673351792" y="451.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e6ea6" text-anchor="start">0.6897</text>
+<text x="490.0" y="556" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#4b6357" text-anchor="middle">Each bar uses that model's own primary evaluation metric</text>
+</svg>
