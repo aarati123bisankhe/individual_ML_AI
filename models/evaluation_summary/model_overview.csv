@@ -1,0 +1,5 @@
+model_name,model_type,dataset_used,primary_metric,metric_value,notes
+Customer Segmentation,kmeans_customer_segmentation,customer_features.csv,silhouette_score,0.3268,Chosen clusters: 3
+Demand Forecasting,ridge_regression_demand_forecasting,daily_store_product_features.csv,test_rmse,1.3363,Baseline RMSE: 1.6392
+Recommendation Engine,item_cooccurrence_recommender,transaction_items_clean.csv,hit_rate_at_5,0.2977,MRR@5: 0.2107
+Scan-to-Pay Anomaly Detection,robust_zscore_scan_to_pay_anomaly_detection,transaction_features.csv,precision_at_top_10pct,0.6897,Recall@top10%: 0.1683

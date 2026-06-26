@@ -1,0 +1,73 @@
+{
+  "model_type": "robust_zscore_scan_to_pay_anomaly_detection",
+  "feature_columns": [
+    "payment_attempts",
+    "avg_payment_latency_ms",
+    "max_payment_latency_ms",
+    "retry_events",
+    "failed_payment_events",
+    "total_rescans",
+    "failed_scan_items",
+    "avg_scan_duration_ms",
+    "max_scan_duration_ms",
+    "scan_failure_rate",
+    "rescan_rate",
+    "checkout_complexity_score"
+  ],
+  "train_rows": 20067,
+  "validation_rows": 4380,
+  "test_rows": 4352,
+  "threshold": 17.772414779265244,
+  "validation_ranking_metrics": [
+    {
+      "top_fraction": 0.01,
+      "evaluated_rows": 43,
+      "precision_at_fraction": 0.6046511627906976,
+      "recall_at_fraction": 0.013450594930160372
+    },
+    {
+      "top_fraction": 0.05,
+      "evaluated_rows": 219,
+      "precision_at_fraction": 0.7534246575342466,
+      "recall_at_fraction": 0.08535954474909467
+    },
+    {
+      "top_fraction": 0.1,
+      "evaluated_rows": 438,
+      "precision_at_fraction": 0.7442922374429224,
+      "recall_at_fraction": 0.16864976720124158
+    }
+  ],
+  "test_ranking_metrics": [
+    {
+      "top_fraction": 0.01,
+      "evaluated_rows": 43,
+      "precision_at_fraction": 0.5348837209302325,
+      "recall_at_fraction": 0.012899607403252944
+    },
+    {
+      "top_fraction": 0.05,
+      "evaluated_rows": 217,
+      "precision_at_fraction": 0.6912442396313364,
+      "recall_at_fraction": 0.08412787436904094
+    },
+    {
+      "top_fraction": 0.1,
+      "evaluated_rows": 435,
+      "precision_at_fraction": 0.6896551724137931,
+      "recall_at_fraction": 0.16825574873808188
+    }
+  ],
+  "test_threshold_metrics": {
+    "threshold": 17.772414779265244,
+    "tp": 128,
+    "fp": 59,
+    "fn": 1655,
+    "tn": 2510,
+    "precision": 0.6844919786096256,
+    "recall": 0.0717891194615816,
+    "accuracy": 0.6061580882352942
+  },
+  "test_proxy_anomaly_rate": 0.40969669117647056,
+  "train_proxy_anomaly_rate": 0.4261723227188917
+}

@@ -1,0 +1,49 @@
+{
+  "model_type": "item_cooccurrence_recommender",
+  "train_transaction_count": 34978,
+  "validation_transaction_count": 7499,
+  "test_transaction_count": 7523,
+  "train_basket_count": 32960,
+  "validation_basket_count": 7092,
+  "test_basket_count": 7102,
+  "top_k_values": [
+    3,
+    5
+  ],
+  "evaluation_metrics": [
+    {
+      "top_k": 3,
+      "evaluated_baskets": 7102,
+      "hit_rate": 0.2628836947338778,
+      "mrr": 0.20266591570449638
+    },
+    {
+      "top_k": 5,
+      "evaluated_baskets": 7102,
+      "hit_rate": 0.2976626302450014,
+      "mrr": 0.21065662254763914
+    }
+  ],
+  "most_popular_products": [
+    "P000018",
+    "P000049",
+    "P000025",
+    "P000106",
+    "P000060",
+    "P000039",
+    "P000072",
+    "P000131",
+    "P000182",
+    "P000099",
+    "P000087",
+    "P000135",
+    "P000073",
+    "P000089",
+    "P000083",
+    "P000067",
+    "P000091",
+    "P000031",
+    "P000126",
+    "P000618"
+  ]
+}

@@ -1,0 +1,1169 @@
+product_id,sku,product_name,brand,subcategory,zone_id,aisle_id,shelf_number,shelf_position,store_id,unit,price_npr
+P000001,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0008,6,12,S01,pack,142
+P000002,SKU-66914255,Mountain Dew 2L,Pepsico,Beverages,Z11,A0017,5,3,S01,bottle,200
+P000003,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0006,1,8,S01,pack,322
+P000004,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0003,6,2,S01,kg,387
+P000005,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0002,6,8,S01,kg,343
+P000006,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0015,5,5,S01,pack,50
+P000007,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0019,4,2,S01,bottle,441
+P000008,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0012,5,4,S01,pack,83
+P000009,SKU-30270938,Aluminium Foil 9m,Freshwrapp,Household,Z14,A0022,1,8,S01,roll,271
+P000010,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0008,4,2,S01,pack,119
+P000011,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0012,4,5,S01,pack,87
+P000012,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0002,2,2,S01,pc,66
+P000013,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0018,2,12,S01,pack,526
+P000014,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0007,3,3,S01,pc,525
+P000015,SKU-02813614,Frozen Momo (Veg) 30pc,Hangrila,Frozen,Z05,A0006,6,9,S01,pack,288
+P000016,SKU-11814860,Sunflower Oil 5L,Fortune,Oils,Z08,A0011,1,12,S01,bottle,1361
+P000017,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0016,4,8,S01,bottle,30
+P000018,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0003,2,1,S01,kg,99
+P000019,SKU-67847904,Mustard Oil 1L,Tulsi,Oils,Z08,A0011,6,8,S01,bottle,317
+P000020,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0014,6,3,S01,pack,20
+P000021,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0012,4,6,S01,bottle,106
+P000022,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0019,3,1,S01,pack,260
+P000023,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0012,3,7,S01,bottle,332
+P000024,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0023,2,12,S01,pack,404
+P000025,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0003,6,5,S01,kg,273
+P000026,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0012,1,7,S01,pack,45
+P000027,SKU-14238760,Sona Mansuli Rice 25kg,Local Mill,Staples,Z07,A0009,5,2,S01,bag,4141
+P000028,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0014,4,5,S01,pack,52
+P000029,SKU-70151283,Chicken Breast (Boneless) 1kg,Valley Cold Store,Meat,Z06,A0007,3,2,S01,kg,458
+P000030,SKU-88286585,Hit Mosquito Spray,Godrej,Household,Z14,A0021,6,5,S01,can,269
+P000031,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0015,2,4,S01,box,785
+P000032,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0024,4,9,S01,pc,142
+P000033,SKU-55477119,Apsara Pencils (10pk),Apsara,Stationery,Z16,A0024,3,7,S01,pack,88
+P000034,SKU-70420949,Nescafe Gold 95g,Nescafe,Tea/Coffee,Z12,A0018,6,7,S01,jar,1026
+P000035,SKU-86064035,Vanaspati Ghee 1kg,Dalda,Oils,Z08,A0011,5,9,S01,tin,374
+P000036,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0019,1,1,S01,bottle,297
+P000037,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0007,4,8,S01,kg,389
+P000038,SKU-59178024,Salt 1kg (Iodized),Tata,Staples,Z07,A0008,2,11,S01,pack,57
+P000039,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0002,4,1,S01,kg,78
+P000040,SKU-64748930,Whole Wheat Bread 500g,Hot Breads,Bakery,Z03,A0004,5,3,S01,pack,116
+P000041,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0005,4,6,S01,pack,269
+P000042,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0015,3,12,S01,pack,26
+P000043,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0023,6,5,S01,pack,1287
+P000044,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0003,2,5,S01,kg,419
+P000045,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0019,6,7,S01,bottle,467
+P000046,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0023,6,3,S01,pack,943
+P000047,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0002,5,8,S01,kg,121
+P000048,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0007,4,6,S01,pack,441
+P000049,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0003,4,7,S01,kg,106
+P000050,SKU-25213122,Eggs (Pack of 6),Local Farm,Dairy,Z04,A0005,2,4,S01,pack,105
+P000051,SKU-41661846,Cling Film 30m,Freshwrapp,Household,Z14,A0022,3,9,S01,roll,158
+P000052,SKU-61618557,Cardamom 100g,Local,Spices,Z09,A0012,2,6,S01,pack,439
+P000053,SKU-41666179,DDC Milk 500ml,DDC,Dairy,Z04,A0005,5,4,S01,pack,57
+P000054,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0002,6,7,S01,kg,94
+P000055,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0012,6,9,S01,pack,73
+P000056,SKU-77325499,Odonil Air Freshener,Dabur,Household,Z14,A0021,3,6,S01,pc,138
+P000057,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0016,4,5,S01,bottle,212
+P000058,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0014,3,3,S01,pack,36
+P000059,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0002,5,11,S01,kg,62
+P000060,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0021,2,2,S01,bottle,239
+P000061,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0019,2,7,S01,can,381
+P000062,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0015,4,7,S01,bar,115
+P000063,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0013,1,3,S01,pack,110
+P000064,SKU-87665061,Mutton (Khasi) 1kg,Local Butcher,Meat,Z06,A0007,6,8,S01,kg,1518
+P000065,SKU-62710887,Colgate MaxFresh Toothpaste 150g,Colgate,Personal,Z13,A0020,4,1,S01,tube,177
+P000066,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0024,5,8,S01,ream,508
+P000067,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0014,2,2,S01,pack,24
+P000068,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0023,2,9,S01,tin,257
+P000069,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0017,1,12,S01,bottle,214
+P000070,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0005,4,2,S01,pack,342
+P000071,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0016,1,1,S01,bottle,226
+P000072,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0022,2,10,S01,pack,359
+P000073,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0022,6,12,S01,bottle,181
+P000074,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0018,2,11,S01,jar,453
+P000075,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0018,6,7,S01,jar,535
+P000076,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0016,1,2,S01,bottle,67
+P000077,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0024,5,10,S01,pc,44
+P000078,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0016,3,4,S01,jar,257
+P000079,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0010,1,1,S01,bag,7227
+P000080,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0009,4,5,S01,bag,397
+P000081,SKU-95793750,Orange per kg,Local,Fruits,Z02,A0002,6,4,S01,kg,200
+P000082,SKU-78905774,Real Mixed Fruit Juice 1L,Dabur,Beverages,Z11,A0016,2,9,S01,pack,214
+P000083,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0015,4,12,S01,pack,25
+P000084,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0023,1,1,S01,bottle,257
+P000085,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0018,6,11,S01,pack,436
+P000086,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0017,3,4,S01,pack,224
+P000087,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0022,3,4,S01,pack,195
+P000088,SKU-09874459,Frooti Mango 200ml,Parle,Beverages,Z11,A0017,6,6,S01,pack,26
+P000089,SKU-40913021,Cauliflower per kg,Local,Vegetables,Z02,A0002,3,11,S01,kg,89
+P000090,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0024,1,5,S01,pack,328
+P000091,SKU-81477434,Wai Wai Veg (Pack of 30),Chaudhary Group,Snacks,Z10,A0015,5,2,S01,box,699
+P000092,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0020,2,5,S01,pc,436
+P000093,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0002,2,4,S01,bundle,25
+P000094,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0007,3,5,S01,pack,327
+P000095,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0008,5,8,S01,bag,531
+P000096,SKU-74573998,Dove Soap (4-pack),HUL,Personal,Z13,A0020,2,8,S01,pack,293
+P000097,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0003,6,1,S01,pc,84
+P000098,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0015,2,7,S01,pack,43
+P000099,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0021,1,10,S01,box,159
+P000100,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0005,1,12,S01,tub,91
+P000101,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0021,4,8,S01,pack,276
+P000102,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0020,3,12,S01,jar,216
+P000103,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0019,1,3,S01,pc,118
+P000104,SKU-34612844,Toor Dal (Rahar) 1kg,Local,Staples,Z07,A0008,2,11,S01,pack,277
+P000105,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0018,6,8,S01,pack,324
+P000106,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0003,6,12,S01,bundle,35
+P000107,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0023,3,6,S01,tin,880
+P000108,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0008,1,1,S01,pack,187
+P000109,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0005,1,6,S01,pack,556
+P000110,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0013,1,9,S01,jar,277
+P000111,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0005,2,7,S01,tin,665
+P000112,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0013,3,7,S01,pack,62
+P000113,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0006,6,8,S01,pack,470
+P000114,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0015,5,8,S01,pack,27
+P000115,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0009,3,12,S01,pack,213
+P000116,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0008,1,11,S01,pack,243
+P000117,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0011,6,7,S01,bottle,1383
+P000118,SKU-63798966,DDC Milk 1L,DDC,Dairy,Z04,A0005,1,8,S01,pack,103
+P000119,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0003,1,5,S01,dozen,107
+P000120,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0007,1,10,S01,pack,767
+P000121,SKU-36924375,Chilli Powder 200g,Catch,Spices,Z09,A0013,3,6,S01,pack,99
+P000122,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0002,5,1,S01,kg,244
+P000123,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0013,6,12,S01,bottle,280
+P000124,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0024,3,5,S01,pc,14
+P000125,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0014,5,11,S01,bar,84
+P000126,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0015,1,1,S01,pack,29
+P000127,SKU-60239111,Sensodyne Toothpaste 75g,GSK,Personal,Z13,A0019,1,8,S01,tube,250
+P000128,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0004,4,7,S01,pack,154
+P000129,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0018,4,8,S01,pack,626
+P000130,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0014,4,3,S01,roll,29
+P000131,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0021,6,5,S01,bottle,274
+P000132,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0011,2,10,S01,bottle,1256
+P000133,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0002,3,8,S01,pack,148
+P000134,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0016,5,2,S01,can,165
+P000135,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0002,4,3,S01,kg,214
+P000136,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0019,1,11,S01,pack,215
+P000137,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0022,5,9,S01,pack,378
+P000138,SKU-59135486,Mango per kg (seasonal),Local,Fruits,Z02,A0003,4,2,S01,kg,189
+P000139,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0028,2,3,S02,kg,333
+P000140,SKU-17084797,Basmati Rice 5kg (Premium),India Gate,Staples,Z07,A0034,5,3,S02,bag,1876
+P000141,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0029,4,2,S02,pack,151
+P000142,SKU-30407514,Sprite 2L,Coca-Cola,Beverages,Z11,A0041,3,12,S02,bottle,210
+P000143,SKU-33015324,Nivea Soft Moisturizer 100g,Nivea,Personal,Z13,A0045,2,6,S02,tub,313
+P000144,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0041,5,3,S02,bottle,31
+P000145,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0031,1,7,S02,tub,480
+P000146,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0033,2,5,S02,pack,188
+P000147,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0030,1,8,S02,tin,662
+P000148,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0041,5,11,S02,bottle,69
+P000149,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0043,6,10,S02,pack,535
+P000150,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0034,2,11,S02,pack,252
+P000151,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0045,2,10,S02,pc,119
+P000152,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0030,2,8,S02,tub,92
+P000153,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0037,2,1,S02,pack,87
+P000154,SKU-83684805,Garbage Bags (50pc),Generic,Household,Z14,A0046,5,3,S02,pack,183
+P000155,SKU-86064035,Vanaspati Ghee 1kg,Dalda,Oils,Z08,A0036,1,3,S02,tin,375
+P000156,SKU-32647853,Pril Dishwash Bar 4pc,Henkel,Household,Z14,A0047,6,4,S02,pack,148
+P000157,SKU-11814860,Sunflower Oil 5L,Fortune,Oils,Z08,A0036,5,11,S02,bottle,1316
+P000158,SKU-42700216,Coconut Crunchies Biscuit,Shree,Snacks,Z10,A0039,3,2,S02,pack,45
+P000159,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0034,4,9,S02,pack,150
+P000160,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0036,3,11,S02,bottle,1438
+P000161,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0032,5,4,S02,pack,417
+P000162,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0041,6,6,S02,pack,219
+P000163,SKU-59178024,Salt 1kg (Iodized),Tata,Staples,Z07,A0035,4,3,S02,pack,52
+P000164,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0032,5,8,S02,pc,518
+P000165,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0034,4,10,S02,pack,118
+P000166,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0048,4,3,S02,pack,1339
+P000167,SKU-87099095,Frozen Chicken Sausage 250g,Nimbus,Frozen,Z05,A0031,4,2,S02,pack,311
+P000168,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0037,3,7,S02,pack,84
+P000169,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0032,4,9,S02,pack,340
+P000170,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0038,1,1,S02,jar,269
+P000171,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0027,1,12,S02,dozen,108
+P000172,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0040,6,9,S02,bar,77
+P000173,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0035,5,7,S02,bag,386
+P000174,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0044,2,1,S02,pack,274
+P000175,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0045,5,12,S02,bottle,428
+P000176,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0048,1,4,S02,bottle,255
+P000177,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0029,4,5,S02,pc,94
+P000178,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0043,2,11,S02,pack,453
+P000179,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0044,2,2,S02,jar,232
+P000180,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0027,5,5,S02,bundle,34
+P000181,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0027,5,5,S02,bundle,26
+P000182,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0027,4,3,S02,kg,93
+P000183,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0044,4,4,S02,can,389
+P000184,SKU-09874459,Frooti Mango 200ml,Parle,Beverages,Z11,A0042,5,9,S02,pack,24
+P000185,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0040,3,1,S02,pack,24
+P000186,SKU-41666179,DDC Milk 500ml,DDC,Dairy,Z04,A0030,4,3,S02,pack,56
+P000187,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0049,3,11,S02,pc,15
+P000188,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0034,4,3,S02,bag,540
+P000189,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0046,3,2,S02,pack,354
+P000190,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0028,1,11,S02,kg,124
+P000191,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0046,4,9,S02,pack,266
+P000192,SKU-38138861,Eggs (Tray of 30),Local Farm,Dairy,Z04,A0030,6,2,S02,tray,512
+P000193,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0043,5,11,S02,pack,673
+P000194,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0027,6,6,S02,kg,244
+P000195,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0027,3,10,S02,pc,77
+P000196,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0049,3,2,S02,ream,482
+P000197,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0037,2,10,S02,pack,118
+P000198,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0042,1,5,S02,bottle,227
+P000199,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0038,3,5,S02,pack,76
+P000200,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0042,5,11,S02,bottle,218
+P000201,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0028,6,1,S02,kg,225
+P000202,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0041,2,3,S02,can,162
+P000203,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0047,6,7,S02,bottle,243
+P000204,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0029,3,1,S02,pack,82
+P000205,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0048,2,10,S02,pack,1000
+P000206,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0037,1,1,S02,pack,62
+P000207,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0030,3,5,S02,pack,264
+P000208,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0040,3,9,S02,box,729
+P000209,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0043,5,5,S02,jar,469
+P000210,SKU-07908511,Bournvita 500g,Cadbury,Tea/Coffee,Z12,A0043,2,6,S02,jar,390
+P000211,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0038,4,3,S02,bottle,275
+P000212,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0042,2,12,S02,bottle,203
+P000213,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0039,1,2,S02,pack,28
+P000214,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0037,6,5,S02,pack,45
+P000215,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0048,3,1,S02,tin,234
+P000216,SKU-94687600,Donut (Glazed) per pc,Roadhouse,Bakery,Z03,A0029,5,6,S02,pc,76
+P000217,SKU-44650587,Himalaya Face Wash Neem,Himalaya,Personal,Z13,A0045,5,8,S02,tube,201
+P000218,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0039,5,12,S02,roll,30
+P000219,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0031,2,1,S02,pack,172
+P000220,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0027,5,1,S02,kg,416
+P000221,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0042,2,3,S02,jar,239
+P000222,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0029,1,1,S02,pack,111
+P000223,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0030,6,4,S02,pack,540
+P000224,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0040,2,9,S02,pack,22
+P000225,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0039,5,11,S02,pack,20
+P000226,SKU-62710887,Colgate MaxFresh Toothpaste 150g,Colgate,Personal,Z13,A0045,5,3,S02,tube,185
+P000227,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0028,1,5,S02,kg,76
+P000228,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0031,6,8,S02,pack,337
+P000229,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0032,1,7,S02,pack,807
+P000230,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0040,6,8,S02,pack,24
+P000231,SKU-64748930,Whole Wheat Bread 500g,Hot Breads,Bakery,Z03,A0029,6,8,S02,pack,116
+P000232,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0044,1,5,S02,pc,414
+P000233,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0043,1,2,S02,jar,516
+P000234,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0040,6,12,S02,pack,52
+P000235,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0040,3,12,S02,pack,43
+P000236,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0046,6,9,S02,pack,392
+P000237,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0034,6,9,S02,pack,215
+P000238,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0027,3,11,S02,kg,292
+P000239,SKU-61618557,Cardamom 100g,Local,Spices,Z09,A0038,2,2,S02,pack,467
+P000240,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0027,1,3,S02,pack,146
+P000241,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0047,2,12,S02,bottle,180
+P000242,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0028,2,12,S02,kg,62
+P000243,SKU-02813614,Frozen Momo (Veg) 30pc,Hangrila,Frozen,Z05,A0031,2,7,S02,pack,290
+P000244,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0048,2,7,S02,tin,921
+P000245,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0037,6,12,S02,bottle,115
+P000246,SKU-94706044,Bourbon Cream Biscuit,Britannia,Snacks,Z10,A0040,5,8,S02,pack,45
+P000247,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0027,5,12,S02,kg,90
+P000248,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0045,1,7,S02,bottle,298
+P000249,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0040,2,10,S02,pack,26
+P000250,SKU-95793750,Orange per kg,Local,Fruits,Z02,A0028,2,7,S02,kg,202
+P000251,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0046,1,10,S02,pack,203
+P000252,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0039,2,1,S02,pack,48
+P000253,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0031,1,10,S02,pack,506
+P000254,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0036,3,3,S02,bottle,1316
+P000255,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0033,1,1,S02,bag,6940
+P000256,SKU-40913021,Cauliflower per kg,Local,Vegetables,Z02,A0028,6,11,S02,kg,86
+P000257,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0032,1,12,S02,kg,368
+P000258,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0046,5,6,S02,box,160
+P000259,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0030,5,11,S02,pack,325
+P000260,SKU-21655948,Lifebuoy Soap (4-pack),HUL,Personal,Z13,A0045,6,7,S02,pack,159
+P000261,SKU-74573998,Dove Soap (4-pack),HUL,Personal,Z13,A0045,2,4,S02,pack,284
+P000262,SKU-69286579,Atta (Wheat Flour) 10kg,Annapurna,Staples,Z07,A0035,1,11,S02,bag,1103
+P000263,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0037,6,11,S02,pack,220
+P000264,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0048,1,3,S02,pack,408
+P000265,SKU-89552454,Snickers 50g,Mars,Confectionery,Z10,A0039,6,4,S02,bar,118
+P000266,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0040,3,7,S02,bar,107
+P000267,SKU-36924375,Chilli Powder 200g,Catch,Spices,Z09,A0037,3,5,S02,pack,99
+P000268,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0046,1,12,S02,bottle,272
+P000269,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0040,3,10,S02,pack,35
+P000270,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0040,3,10,S02,pack,29
+P000271,SKU-34612844,Toor Dal (Rahar) 1kg,Local,Staples,Z07,A0033,4,1,S02,pack,263
+P000272,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0030,1,6,S02,tin,1246
+P000273,SKU-62165706,Green Chilli (Khursani) 100g,Local,Vegetables,Z02,A0027,1,9,S02,100g,30
+P000274,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0043,6,2,S02,pack,343
+P000275,SKU-50121908,Sunsilk Shampoo 180ml,HUL,Personal,Z13,A0044,3,3,S02,bottle,184
+P000276,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0049,5,4,S02,pack,313
+P000277,SKU-83201481,Cake Slice (Chocolate),Hot Breads,Bakery,Z03,A0029,1,1,S02,pc,128
+P000278,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0028,1,8,S02,pc,66
+P000279,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0027,2,8,S02,kg,384
+P000280,SKU-55477119,Apsara Pencils (10pk),Apsara,Stationery,Z16,A0049,5,5,S02,pack,86
+P000281,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0059,4,1,S03,bag,7288
+P000282,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0060,4,9,S03,pack,198
+P000283,SKU-33015324,Nivea Soft Moisturizer 100g,Nivea,Personal,Z13,A0069,2,11,S03,tub,314
+P000284,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0056,1,7,S03,pack,501
+P000285,SKU-83201481,Cake Slice (Chocolate),Hot Breads,Bakery,Z03,A0054,1,1,S03,pc,127
+P000286,SKU-59135486,Mango per kg (seasonal),Local,Fruits,Z02,A0052,2,3,S03,kg,184
+P000287,SKU-44650587,Himalaya Face Wash Neem,Himalaya,Personal,Z13,A0069,2,9,S03,tube,196
+P000288,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0072,5,8,S03,pack,266
+P000289,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0054,6,8,S03,pack,110
+P000290,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0063,6,6,S03,jar,266
+P000291,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0064,4,12,S03,pack,52
+P000292,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0054,2,11,S03,pack,145
+P000293,SKU-89552454,Snickers 50g,Mars,Confectionery,Z10,A0065,5,2,S03,bar,123
+P000294,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0065,5,6,S03,bar,81
+P000295,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0054,3,5,S03,pack,84
+P000296,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0067,1,1,S03,bottle,201
+P000297,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0053,4,11,S03,pc,82
+P000298,SKU-42700216,Coconut Crunchies Biscuit,Shree,Snacks,Z10,A0065,3,10,S03,pack,44
+P000299,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0057,2,5,S03,pack,799
+P000300,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0062,5,4,S03,pack,68
+P000301,SKU-67847904,Mustard Oil 1L,Tulsi,Oils,Z08,A0061,4,8,S03,bottle,311
+P000302,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0067,2,2,S03,bottle,217
+P000303,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0069,6,4,S03,can,384
+P000304,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0069,5,12,S03,bottle,277
+P000305,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0056,2,6,S03,pack,183
+P000306,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0065,4,8,S03,pack,52
+P000307,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0074,5,11,S03,pack,308
+P000308,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0068,4,6,S03,pack,540
+P000309,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0055,2,5,S03,pack,571
+P000310,SKU-60239111,Sensodyne Toothpaste 75g,GSK,Personal,Z13,A0070,6,5,S03,tube,257
+P000311,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0053,6,3,S03,kg,279
+P000312,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0065,6,5,S03,pack,28
+P000313,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0073,6,5,S03,pack,417
+P000314,SKU-21655948,Lifebuoy Soap (4-pack),HUL,Personal,Z13,A0070,4,7,S03,pack,167
+P000315,SKU-87099095,Frozen Chicken Sausage 250g,Nimbus,Frozen,Z05,A0056,1,11,S03,pack,338
+P000316,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0066,2,5,S03,jar,259
+P000317,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0062,1,2,S03,bottle,356
+P000318,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0071,3,3,S03,pack,386
+P000319,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0068,3,11,S03,pack,444
+P000320,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0066,6,1,S03,pack,214
+P000321,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0065,1,11,S03,pack,22
+P000322,SKU-51295442,Oreo Vanilla 120g,Cadbury,Snacks,Z10,A0065,5,2,S03,pack,76
+P000323,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0070,2,3,S03,pc,437
+P000324,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0062,3,3,S03,pack,73
+P000325,SKU-41666179,DDC Milk 500ml,DDC,Dairy,Z04,A0055,4,9,S03,pack,53
+P000326,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0052,6,10,S03,dozen,115
+P000327,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0074,1,11,S03,pc,16
+P000328,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0070,5,11,S03,pack,274
+P000329,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0069,2,8,S03,bottle,494
+P000330,SKU-09874459,Frooti Mango 200ml,Parle,Beverages,Z11,A0066,5,2,S03,pack,26
+P000331,SKU-62710887,Colgate MaxFresh Toothpaste 150g,Colgate,Personal,Z13,A0070,4,11,S03,tube,192
+P000332,SKU-63798966,DDC Milk 1L,DDC,Dairy,Z04,A0055,5,2,S03,pack,105
+P000333,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0059,2,3,S03,bag,379
+P000334,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0073,5,1,S03,pack,1297
+P000335,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0055,2,12,S03,tin,674
+P000336,SKU-25213122,Eggs (Pack of 6),Local Farm,Dairy,Z04,A0055,4,3,S03,pack,110
+P000337,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0065,6,1,S03,pack,34
+P000338,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0064,3,8,S03,pack,29
+P000339,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0067,4,11,S03,bottle,216
+P000340,SKU-30407514,Sprite 2L,Coca-Cola,Beverages,Z11,A0067,4,6,S03,bottle,208
+P000341,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0062,6,2,S03,pack,44
+P000342,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0052,3,11,S03,kg,61
+P000343,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0064,1,10,S03,pack,24
+P000344,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0071,6,6,S03,box,170
+P000345,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0055,1,9,S03,tub,95
+P000346,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0065,2,1,S03,pack,24
+P000347,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0056,4,11,S03,pack,318
+P000348,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0071,1,11,S03,bottle,261
+P000349,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0061,4,9,S03,bottle,1458
+P000350,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0056,2,5,S03,tub,477
+P000351,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0074,4,5,S03,pc,146
+P000352,SKU-50121908,Sunsilk Shampoo 180ml,HUL,Personal,Z13,A0070,3,5,S03,bottle,182
+P000353,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0064,4,7,S03,bar,108
+P000354,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0071,3,9,S03,bottle,182
+P000355,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0055,2,11,S03,pack,275
+P000356,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0052,1,6,S03,bundle,24
+P000357,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0053,6,5,S03,kg,337
+P000358,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0062,6,2,S03,bottle,113
+P000359,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0073,1,7,S03,pack,1007
+P000360,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0054,4,9,S03,pc,91
+P000361,SKU-87665061,Mutton (Khasi) 1kg,Local Butcher,Meat,Z06,A0057,4,5,S03,kg,1393
+P000362,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0064,1,4,S03,roll,31
+P000363,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0052,4,10,S03,kg,431
+P000364,SKU-78905774,Real Mixed Fruit Juice 1L,Dabur,Beverages,Z11,A0067,1,9,S03,pack,229
+P000365,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0070,5,7,S03,pack,228
+P000366,SKU-14238760,Sona Mansuli Rice 25kg,Local Mill,Staples,Z07,A0060,6,11,S03,bag,4282
+P000367,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0055,5,11,S03,tin,1198
+P000368,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0064,1,11,S03,pack,25
+P000369,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0069,6,3,S03,jar,216
+P000370,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0063,2,1,S03,pack,223
+P000371,SKU-61618557,Cardamom 100g,Local,Spices,Z09,A0062,1,11,S03,pack,428
+P000372,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0073,2,5,S03,tin,890
+P000373,SKU-81477434,Wai Wai Veg (Pack of 30),Chaudhary Group,Snacks,Z10,A0065,3,5,S03,box,697
+P000374,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0068,1,6,S03,pack,619
+P000375,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0052,5,11,S03,bundle,35
+P000376,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0053,1,8,S03,kg,76
+P000377,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0057,1,2,S03,kg,396
+P000378,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0063,4,10,S03,bottle,291
+P000379,SKU-55477119,Apsara Pencils (10pk),Apsara,Stationery,Z16,A0074,4,8,S03,pack,81
+P000380,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0067,6,7,S03,bottle,30
+P000381,SKU-38138861,Eggs (Tray of 30),Local Farm,Dairy,Z04,A0055,6,3,S03,tray,524
+P000382,SKU-36924375,Chilli Powder 200g,Catch,Spices,Z09,A0063,4,9,S03,pack,91
+P000383,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0052,6,8,S03,kg,107
+P000384,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0067,2,11,S03,can,157
+P000385,SKU-70420949,Nescafe Gold 95g,Nescafe,Tea/Coffee,Z12,A0068,1,1,S03,jar,1003
+P000386,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0073,1,2,S03,bottle,258
+P000387,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0057,1,3,S03,pc,519
+P000388,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0067,3,12,S03,bottle,70
+P000389,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0053,4,12,S03,kg,97
+P000390,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0060,1,6,S03,pack,252
+P000391,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0053,6,12,S03,kg,259
+P000392,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0074,6,2,S03,pc,44
+P000393,SKU-94687600,Donut (Glazed) per pc,Roadhouse,Bakery,Z03,A0054,5,12,S03,pc,75
+P000394,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0071,6,5,S03,pack,359
+P000395,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0055,1,12,S03,pack,324
+P000396,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0073,1,1,S03,tin,254
+P000397,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0059,6,10,S03,bag,503
+P000398,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0065,3,5,S03,pack,46
+P000399,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0063,2,8,S03,pack,89
+P000400,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0053,3,6,S03,kg,397
+P000401,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0068,6,8,S03,jar,523
+P000402,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0068,2,3,S03,jar,487
+P000403,SKU-01419915,Ice Cream Tub 1L (Chocolate),Igloo,Frozen,Z05,A0056,1,6,S03,tub,481
+P000404,SKU-86331150,Olive Oil 500ml,Figaro,Oils,Z08,A0061,2,11,S03,bottle,804
+P000405,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0057,4,7,S03,pack,432
+P000406,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0052,4,5,S03,pc,67
+P000407,SKU-62165706,Green Chilli (Khursani) 100g,Local,Vegetables,Z02,A0053,5,6,S03,100g,29
+P000408,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0068,1,10,S03,pack,356
+P000409,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0061,6,10,S03,bottle,1268
+P000410,SKU-66914255,Mountain Dew 2L,Pepsico,Beverages,Z11,A0067,5,12,S03,bottle,220
+P000411,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0059,2,10,S03,pack,119
+P000412,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0072,5,7,S03,pack,204
+P000413,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0057,2,7,S03,pack,336
+P000414,SKU-69286579,Atta (Wheat Flour) 10kg,Annapurna,Staples,Z07,A0060,4,10,S03,bag,1181
+P000415,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0060,2,8,S03,pack,142
+P000416,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0053,1,6,S03,kg,93
+P000417,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0069,4,3,S03,pc,121
+P000418,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0060,1,5,S03,pack,212
+P000419,SKU-94706044,Bourbon Cream Biscuit,Britannia,Snacks,Z10,A0065,5,3,S03,pack,44
+P000420,SKU-30270938,Aluminium Foil 9m,Freshwrapp,Household,Z14,A0071,5,11,S03,roll,293
+P000421,SKU-60239111,Sensodyne Toothpaste 75g,GSK,Personal,Z13,A0094,3,5,S04,tube,242
+P000422,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0078,3,8,S04,kg,346
+P000423,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0095,4,4,S04,pc,438
+P000424,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0096,6,1,S04,pack,344
+P000425,SKU-07908511,Bournvita 500g,Cadbury,Tea/Coffee,Z12,A0093,2,1,S04,jar,372
+P000426,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0090,2,2,S04,pack,52
+P000427,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0082,3,12,S04,kg,371
+P000428,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0085,4,2,S04,pack,203
+P000429,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0087,4,1,S04,pack,46
+P000430,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0098,4,6,S04,pack,1276
+P000431,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0077,2,8,S04,kg,365
+P000432,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0090,3,3,S04,bar,79
+P000433,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0093,6,1,S04,pack,629
+P000434,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0082,4,9,S04,pack,810
+P000435,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0083,4,3,S04,pack,142
+P000436,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0097,4,4,S04,pack,188
+P000437,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0077,3,10,S04,kg,114
+P000438,SKU-51295442,Oreo Vanilla 120g,Cadbury,Snacks,Z10,A0090,3,3,S04,pack,73
+P000439,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0093,1,6,S04,pack,523
+P000440,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0099,4,2,S04,ream,468
+P000441,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0079,5,1,S04,pack,86
+P000442,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0095,6,4,S04,pc,121
+P000443,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0089,3,2,S04,pack,27
+P000444,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0077,2,6,S04,dozen,109
+P000445,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0098,3,4,S04,bottle,276
+P000446,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0098,1,7,S04,pack,416
+P000447,SKU-21655948,Lifebuoy Soap (4-pack),HUL,Personal,Z13,A0094,2,1,S04,pack,170
+P000448,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0086,3,3,S04,bottle,1519
+P000449,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0094,1,8,S04,pack,273
+P000450,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0087,3,9,S04,bottle,333
+P000451,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0093,1,9,S04,pack,333
+P000452,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0095,3,7,S04,bottle,401
+P000453,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0098,4,4,S04,tin,240
+P000454,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0082,2,3,S04,pack,352
+P000455,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0085,5,4,S04,bag,7352
+P000456,SKU-87665061,Mutton (Khasi) 1kg,Local Butcher,Meat,Z06,A0082,2,10,S04,kg,1389
+P000457,SKU-64748930,Whole Wheat Bread 500g,Hot Breads,Bakery,Z03,A0079,1,10,S04,pack,123
+P000458,SKU-70151283,Chicken Breast (Boneless) 1kg,Valley Cold Store,Meat,Z06,A0082,3,3,S04,kg,466
+P000459,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0088,5,11,S04,pack,77
+P000460,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0090,2,10,S04,pack,25
+P000461,SKU-36924375,Chilli Powder 200g,Catch,Spices,Z09,A0087,1,2,S04,pack,97
+P000462,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0088,5,7,S04,pack,88
+P000463,SKU-01419915,Ice Cream Tub 1L (Chocolate),Igloo,Frozen,Z05,A0081,1,9,S04,tub,474
+P000464,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0094,3,5,S04,pack,233
+P000465,SKU-94706044,Bourbon Cream Biscuit,Britannia,Snacks,Z10,A0090,4,2,S04,pack,43
+P000466,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0095,4,3,S04,can,399
+P000467,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0091,3,4,S04,bottle,203
+P000468,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0077,3,1,S04,kg,58
+P000469,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0080,3,10,S04,tub,96
+P000470,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0078,1,6,S04,kg,120
+P000471,SKU-59178024,Salt 1kg (Iodized),Tata,Staples,Z07,A0085,4,9,S04,pack,53
+P000472,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0082,3,12,S04,pc,507
+P000473,SKU-66914255,Mountain Dew 2L,Pepsico,Beverages,Z11,A0092,3,12,S04,bottle,218
+P000474,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0078,5,1,S04,bundle,24
+P000475,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0091,1,12,S04,jar,250
+P000476,SKU-61618557,Cardamom 100g,Local,Spices,Z09,A0087,5,1,S04,pack,451
+P000477,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0097,5,3,S04,pack,367
+P000478,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0090,1,4,S04,bar,111
+P000479,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0078,2,2,S04,kg,93
+P000480,SKU-41661846,Cling Film 30m,Freshwrapp,Household,Z14,A0097,5,1,S04,roll,157
+P000481,SKU-02813614,Frozen Momo (Veg) 30pc,Hangrila,Frozen,Z05,A0081,6,12,S04,pack,286
+P000482,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0088,1,10,S04,pack,117
+P000483,SKU-40913021,Cauliflower per kg,Local,Vegetables,Z02,A0078,4,9,S04,kg,88
+P000484,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0081,4,2,S04,tub,473
+P000485,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0080,1,12,S04,tin,1210
+P000486,SKU-70420949,Nescafe Gold 95g,Nescafe,Tea/Coffee,Z12,A0093,3,2,S04,jar,982
+P000487,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0087,5,9,S04,pack,67
+P000488,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0096,1,2,S04,box,159
+P000489,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0077,2,9,S04,pack,151
+P000490,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0078,2,3,S04,bundle,36
+P000491,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0079,4,12,S04,pack,109
+P000492,SKU-44650587,Himalaya Face Wash Neem,Himalaya,Personal,Z13,A0095,1,11,S04,tube,197
+P000493,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0084,4,10,S04,pack,119
+P000494,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0088,5,1,S04,pack,87
+P000495,SKU-42700216,Coconut Crunchies Biscuit,Shree,Snacks,Z10,A0089,1,6,S04,pack,44
+P000496,SKU-94687600,Donut (Glazed) per pc,Roadhouse,Bakery,Z03,A0079,2,6,S04,pc,77
+P000497,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0080,5,6,S04,pack,284
+P000498,SKU-89552454,Snickers 50g,Mars,Confectionery,Z10,A0089,5,1,S04,bar,118
+P000499,SKU-74573998,Dove Soap (4-pack),HUL,Personal,Z13,A0094,2,11,S04,pack,308
+P000500,SKU-88286585,Hit Mosquito Spray,Godrej,Household,Z14,A0097,2,7,S04,can,269
+P000501,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0085,1,6,S04,bag,504
+P000502,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0089,2,2,S04,pack,20
+P000503,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0093,2,9,S04,jar,534
+P000504,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0096,2,3,S04,pack,263
+P000505,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0080,4,8,S04,pack,567
+P000506,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0099,1,1,S04,pc,150
+P000507,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0081,5,5,S04,pack,188
+P000508,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0079,5,5,S04,pc,91
+P000509,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0095,1,10,S04,bottle,466
+P000510,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0097,1,9,S04,bottle,252
+P000511,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0091,2,1,S04,bottle,206
+P000512,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0089,3,6,S04,pack,25
+P000513,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0078,1,1,S04,pc,81
+P000514,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0088,5,5,S04,bottle,273
+P000515,SKU-86064035,Vanaspati Ghee 1kg,Dalda,Oils,Z08,A0086,5,9,S04,tin,402
+P000516,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0091,4,2,S04,pack,220
+P000517,SKU-34612844,Toor Dal (Rahar) 1kg,Local,Staples,Z07,A0085,3,7,S04,pack,267
+P000518,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0089,3,4,S04,pack,46
+P000519,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0078,6,9,S04,kg,274
+P000520,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0082,4,10,S04,pack,428
+P000521,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0078,2,11,S04,kg,247
+P000522,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0078,5,12,S04,pc,64
+P000523,SKU-32647853,Pril Dishwash Bar 4pc,Henkel,Household,Z14,A0097,5,5,S04,pack,157
+P000524,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0092,4,5,S04,bottle,67
+P000525,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0080,3,4,S04,pack,329
+P000526,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0098,5,7,S04,pack,1031
+P000527,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0081,4,1,S04,pack,344
+P000528,SKU-77325499,Odonil Air Freshener,Dabur,Household,Z14,A0097,2,4,S04,pc,133
+P000529,SKU-86331150,Olive Oil 500ml,Figaro,Oils,Z08,A0086,3,8,S04,bottle,762
+P000530,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0081,2,5,S04,pack,464
+P000531,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0084,1,3,S04,bag,382
+P000532,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0098,5,6,S04,tin,880
+P000533,SKU-83684805,Garbage Bags (50pc),Generic,Household,Z14,A0097,1,9,S04,pack,183
+P000534,SKU-83201481,Cake Slice (Chocolate),Hot Breads,Bakery,Z03,A0079,4,6,S04,pc,133
+P000535,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0091,1,9,S04,bottle,214
+P000536,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0088,6,12,S04,pack,235
+P000537,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0099,4,6,S04,pc,15
+P000538,SKU-62710887,Colgate MaxFresh Toothpaste 150g,Colgate,Personal,Z13,A0094,2,11,S04,tube,179
+P000539,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0084,5,5,S04,pack,212
+P000540,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0089,5,2,S04,pack,23
+P000541,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0099,6,8,S04,pc,44
+P000542,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0087,6,12,S04,jar,269
+P000543,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0096,6,3,S04,bottle,243
+P000544,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0089,1,1,S04,box,743
+P000545,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0089,5,10,S04,pack,27
+P000546,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0078,4,10,S04,kg,72
+P000547,SKU-78905774,Real Mixed Fruit Juice 1L,Dabur,Beverages,Z11,A0091,3,10,S04,pack,222
+P000548,SKU-55477119,Apsara Pencils (10pk),Apsara,Stationery,Z16,A0099,4,8,S04,pack,87
+P000549,SKU-69286579,Atta (Wheat Flour) 10kg,Annapurna,Staples,Z07,A0085,3,12,S04,bag,1133
+P000550,SKU-63798966,DDC Milk 1L,DDC,Dairy,Z04,A0080,3,7,S04,pack,108
+P000551,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0091,5,7,S04,can,167
+P000552,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0095,1,12,S04,bottle,295
+P000553,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0078,4,7,S04,kg,219
+P000554,SKU-59135486,Mango per kg (seasonal),Local,Fruits,Z02,A0077,2,9,S04,kg,176
+P000555,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0078,2,7,S04,kg,96
+P000556,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0089,5,4,S04,pack,24
+P000557,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0099,3,6,S04,pack,335
+P000558,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0093,5,4,S04,jar,486
+P000559,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0080,2,7,S04,tin,701
+P000560,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0078,1,1,S04,kg,401
+P000561,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0089,5,8,S04,pack,49
+P000562,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0087,5,5,S04,bottle,110
+P000563,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0079,4,9,S04,pack,155
+P000564,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0096,6,11,S04,bottle,184
+P000565,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0086,4,6,S04,bottle,1231
+P000566,SKU-67847904,Mustard Oil 1L,Tulsi,Oils,Z08,A0086,6,6,S04,bottle,318
+P000567,SKU-30270938,Aluminium Foil 9m,Freshwrapp,Household,Z14,A0097,1,11,S04,roll,273
+P000568,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0115,6,7,S05,pack,25
+P000569,SKU-42700216,Coconut Crunchies Biscuit,Shree,Snacks,Z10,A0115,5,4,S05,pack,45
+P000570,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0119,4,12,S05,bottle,285
+P000571,SKU-89552454,Snickers 50g,Mars,Confectionery,Z10,A0114,2,2,S05,bar,116
+P000572,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0121,3,7,S05,pack,257
+P000573,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0122,3,7,S05,bottle,247
+P000574,SKU-87099095,Frozen Chicken Sausage 250g,Nimbus,Frozen,Z05,A0106,1,6,S05,pack,326
+P000575,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0107,4,6,S05,pack,337
+P000576,SKU-30407514,Sprite 2L,Coca-Cola,Beverages,Z11,A0116,1,2,S05,bottle,208
+P000577,SKU-07908511,Bournvita 500g,Cadbury,Tea/Coffee,Z12,A0118,3,9,S05,jar,375
+P000578,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0124,2,8,S05,pc,15
+P000579,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0116,2,7,S05,pack,210
+P000580,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0122,6,1,S05,pack,192
+P000581,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0114,2,4,S05,pack,26
+P000582,SKU-62710887,Colgate MaxFresh Toothpaste 150g,Colgate,Personal,Z13,A0119,1,4,S05,tube,181
+P000583,SKU-64748930,Whole Wheat Bread 500g,Hot Breads,Bakery,Z03,A0104,2,9,S05,pack,119
+P000584,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0106,2,3,S05,pack,178
+P000585,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0115,2,12,S05,pack,25
+P000586,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0112,6,10,S05,bottle,277
+P000587,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0115,4,9,S05,pack,19
+P000588,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0102,4,11,S05,kg,58
+P000589,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0113,6,5,S05,pack,45
+P000590,SKU-50121908,Sunsilk Shampoo 180ml,HUL,Personal,Z13,A0120,4,10,S05,bottle,194
+P000591,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0106,5,4,S05,tub,475
+P000592,SKU-83201481,Cake Slice (Chocolate),Hot Breads,Bakery,Z03,A0104,5,4,S05,pc,125
+P000593,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0113,1,11,S05,pack,88
+P000594,SKU-30270938,Aluminium Foil 9m,Freshwrapp,Household,Z14,A0121,5,5,S05,roll,292
+P000595,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0119,4,1,S05,bottle,493
+P000596,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0123,5,3,S05,tin,868
+P000597,SKU-02813614,Frozen Momo (Veg) 30pc,Hangrila,Frozen,Z05,A0106,4,12,S05,pack,283
+P000598,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0119,2,4,S05,pack,221
+P000599,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0112,6,2,S05,pack,72
+P000600,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0120,3,9,S05,can,395
+P000601,SKU-17084797,Basmati Rice 5kg (Premium),India Gate,Staples,Z07,A0110,2,2,S05,bag,1890
+P000602,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0119,1,4,S05,bottle,411
+P000603,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0123,6,7,S05,bottle,259
+P000604,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0117,4,8,S05,bottle,226
+P000605,SKU-70151283,Chicken Breast (Boneless) 1kg,Valley Cold Store,Meat,Z06,A0107,6,3,S05,kg,501
+P000606,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0102,2,1,S05,kg,247
+P000607,SKU-94687600,Donut (Glazed) per pc,Roadhouse,Bakery,Z03,A0104,6,12,S05,pc,74
+P000608,SKU-01419915,Ice Cream Tub 1L (Chocolate),Igloo,Frozen,Z05,A0106,4,1,S05,tub,467
+P000609,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0113,6,8,S05,pack,83
+P000610,SKU-61618557,Cardamom 100g,Local,Spices,Z09,A0113,4,6,S05,pack,468
+P000611,SKU-77325499,Odonil Air Freshener,Dabur,Household,Z14,A0122,1,3,S05,pc,132
+P000612,SKU-88286585,Hit Mosquito Spray,Godrej,Household,Z14,A0121,3,10,S05,can,271
+P000613,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0103,6,11,S05,kg,114
+P000614,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0114,1,10,S05,pack,21
+P000615,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0107,2,5,S05,pack,753
+P000616,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0103,6,1,S05,kg,75
+P000617,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0115,6,11,S05,bar,115
+P000618,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0102,5,4,S05,kg,96
+P000619,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0123,6,9,S05,tin,239
+P000620,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0114,4,11,S05,pack,29
+P000621,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0118,3,1,S05,jar,505
+P000622,SKU-86331150,Olive Oil 500ml,Figaro,Oils,Z08,A0111,6,5,S05,bottle,811
+P000623,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0117,5,10,S05,can,168
+P000624,SKU-25213122,Eggs (Pack of 6),Local Farm,Dairy,Z04,A0105,2,11,S05,pack,106
+P000625,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0107,3,4,S05,pack,432
+P000626,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0119,3,12,S05,pc,443
+P000627,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0103,4,12,S05,pack,154
+P000628,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0121,6,10,S05,pack,356
+P000629,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0118,3,9,S05,pack,422
+P000630,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0115,4,8,S05,box,782
+P000631,SKU-40913021,Cauliflower per kg,Local,Vegetables,Z02,A0102,6,9,S05,kg,92
+P000632,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0104,6,11,S05,pc,90
+P000633,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0104,1,11,S05,pack,87
+P000634,SKU-59178024,Salt 1kg (Iodized),Tata,Staples,Z07,A0110,4,11,S05,pack,55
+P000635,SKU-51295442,Oreo Vanilla 120g,Cadbury,Snacks,Z10,A0115,2,8,S05,pack,77
+P000636,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0123,1,12,S05,pack,1341
+P000637,SKU-44650587,Himalaya Face Wash Neem,Himalaya,Personal,Z13,A0119,5,5,S05,tube,193
+P000638,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0105,2,11,S05,tin,657
+P000639,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0113,3,4,S05,bottle,361
+P000640,SKU-11814860,Sunflower Oil 5L,Fortune,Oils,Z08,A0111,2,6,S05,bottle,1359
+P000641,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0109,1,4,S05,pack,147
+P000642,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0102,2,3,S05,kg,428
+P000643,SKU-36924375,Chilli Powder 200g,Catch,Spices,Z09,A0113,4,11,S05,pack,95
+P000644,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0123,6,4,S05,pack,936
+P000645,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0118,6,8,S05,pack,626
+P000646,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0112,6,6,S05,pack,66
+P000647,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0124,2,12,S05,ream,468
+P000648,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0118,5,4,S05,pack,334
+P000649,SKU-59135486,Mango per kg (seasonal),Local,Fruits,Z02,A0103,1,9,S05,kg,179
+P000650,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0111,2,11,S05,bottle,1474
+P000651,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0121,5,8,S05,bottle,274
+P000652,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0102,4,4,S05,bundle,24
+P000653,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0115,3,1,S05,roll,30
+P000654,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0117,2,1,S05,bottle,201
+P000655,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0102,3,5,S05,kg,213
+P000656,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0102,6,5,S05,kg,348
+P000657,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0113,1,3,S05,bottle,108
+P000658,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0109,4,10,S05,pack,113
+P000659,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0109,2,9,S05,pack,187
+P000660,SKU-14238760,Sona Mansuli Rice 25kg,Local Mill,Staples,Z07,A0108,1,8,S05,bag,4407
+P000661,SKU-62165706,Green Chilli (Khursani) 100g,Local,Vegetables,Z02,A0103,4,2,S05,100g,31
+P000662,SKU-60239111,Sensodyne Toothpaste 75g,GSK,Personal,Z13,A0119,3,12,S05,tube,247
+P000663,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0106,1,11,S05,pack,330
+P000664,SKU-81477434,Wai Wai Veg (Pack of 30),Chaudhary Group,Snacks,Z10,A0114,4,8,S05,box,698
+P000665,SKU-63798966,DDC Milk 1L,DDC,Dairy,Z04,A0105,5,6,S05,pack,103
+P000666,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0120,1,11,S05,jar,220
+P000667,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0105,5,12,S05,tin,1269
+P000668,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0112,3,11,S05,pack,219
+P000669,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0102,2,12,S05,bundle,33
+P000670,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0115,4,3,S05,pack,34
+P000671,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0123,2,11,S05,pack,426
+P000672,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0110,6,3,S05,bag,6914
+P000673,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0108,6,5,S05,bag,538
+P000674,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0110,3,7,S05,pack,237
+P000675,SKU-38138861,Eggs (Tray of 30),Local Farm,Dairy,Z04,A0105,3,6,S05,tray,511
+P000676,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0113,2,9,S05,jar,276
+P000677,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0115,3,4,S05,bar,76
+P000678,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0118,1,10,S05,pack,541
+P000679,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0121,6,7,S05,pack,401
+P000680,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0117,2,8,S05,jar,248
+P000681,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0104,6,3,S05,pack,157
+P000682,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0114,5,10,S05,pack,51
+P000683,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0118,2,12,S05,jar,452
+P000684,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0102,2,8,S05,kg,385
+P000685,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0116,4,2,S05,bottle,31
+P000686,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0117,4,8,S05,bottle,68
+P000687,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0103,6,6,S05,kg,105
+P000688,SKU-83684805,Garbage Bags (50pc),Generic,Household,Z14,A0121,5,9,S05,pack,184
+P000689,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0107,3,2,S05,kg,391
+P000690,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0112,5,12,S05,pack,114
+P000691,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0120,3,2,S05,pack,263
+P000692,SKU-41661846,Cling Film 30m,Freshwrapp,Household,Z14,A0122,6,3,S05,roll,172
+P000693,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0117,2,7,S05,bottle,206
+P000694,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0107,4,10,S05,pc,529
+P000695,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0103,5,4,S05,kg,95
+P000696,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0121,5,6,S05,bottle,185
+P000697,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0103,4,9,S05,pc,68
+P000698,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0124,2,7,S05,pc,47
+P000699,SKU-78905774,Real Mixed Fruit Juice 1L,Dabur,Beverages,Z11,A0116,5,2,S05,pack,227
+P000700,SKU-41666179,DDC Milk 500ml,DDC,Dairy,Z04,A0105,1,12,S05,pack,56
+P000701,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0124,5,11,S05,pc,142
+P000702,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0104,5,7,S05,pack,115
+P000703,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0103,4,11,S05,dozen,112
+P000704,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0111,3,6,S05,bottle,1294
+P000705,SKU-74573998,Dove Soap (4-pack),HUL,Personal,Z13,A0119,6,1,S05,pack,305
+P000706,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0106,2,11,S05,pack,497
+P000707,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0119,6,2,S05,pc,116
+P000708,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0115,5,6,S05,pack,50
+P000709,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0139,5,1,S06,pack,24
+P000710,SKU-62710887,Colgate MaxFresh Toothpaste 150g,Colgate,Personal,Z13,A0145,3,12,S06,tube,184
+P000711,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0133,5,8,S06,pack,203
+P000712,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0146,3,6,S06,bottle,176
+P000713,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0141,5,8,S06,pack,216
+P000714,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0139,1,4,S06,bar,80
+P000715,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0136,5,1,S06,bottle,1469
+P000716,SKU-41666179,DDC Milk 500ml,DDC,Dairy,Z04,A0130,6,11,S06,pack,53
+P000717,SKU-34612844,Toor Dal (Rahar) 1kg,Local,Staples,Z07,A0133,4,5,S06,pack,253
+P000718,SKU-70151283,Chicken Breast (Boneless) 1kg,Valley Cold Store,Meat,Z06,A0132,3,6,S06,kg,483
+P000719,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0132,5,10,S06,kg,403
+P000720,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0144,6,1,S06,pack,276
+P000721,SKU-83201481,Cake Slice (Chocolate),Hot Breads,Bakery,Z03,A0129,1,4,S06,pc,134
+P000722,SKU-69286579,Atta (Wheat Flour) 10kg,Annapurna,Staples,Z07,A0134,6,10,S06,bag,1165
+P000723,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0133,3,5,S06,bag,391
+P000724,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0129,2,3,S06,pack,153
+P000725,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0132,3,6,S06,pack,348
+P000726,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0149,5,11,S06,pack,312
+P000727,SKU-83684805,Garbage Bags (50pc),Generic,Household,Z14,A0147,5,12,S06,pack,183
+P000728,SKU-44650587,Himalaya Face Wash Neem,Himalaya,Personal,Z13,A0144,1,12,S06,tube,196
+P000729,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0148,3,8,S06,tin,885
+P000730,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0147,2,4,S06,pack,362
+P000731,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0143,2,3,S06,pack,510
+P000732,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0135,6,8,S06,bag,520
+P000733,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0144,4,10,S06,pc,437
+P000734,SKU-41661846,Cling Film 30m,Freshwrapp,Household,Z14,A0146,2,10,S06,roll,158
+P000735,SKU-50121908,Sunsilk Shampoo 180ml,HUL,Personal,Z13,A0145,3,12,S06,bottle,181
+P000736,SKU-59135486,Mango per kg (seasonal),Local,Fruits,Z02,A0127,6,10,S06,kg,181
+P000737,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0139,3,2,S06,pack,26
+P000738,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0127,5,2,S06,kg,424
+P000739,SKU-55477119,Apsara Pencils (10pk),Apsara,Stationery,Z16,A0149,3,10,S06,pack,84
+P000740,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0130,4,6,S06,tin,707
+P000741,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0145,6,7,S06,bottle,291
+P000742,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0145,1,8,S06,bottle,412
+P000743,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0148,2,5,S06,bottle,276
+P000744,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0148,5,1,S06,pack,1333
+P000745,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0129,6,5,S06,pack,107
+P000746,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0149,1,4,S06,pc,14
+P000747,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0140,4,4,S06,bar,114
+P000748,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0131,3,9,S06,pack,183
+P000749,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0143,2,4,S06,jar,476
+P000750,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0143,2,10,S06,pack,325
+P000751,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0146,1,10,S06,box,162
+P000752,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0137,2,1,S06,pack,82
+P000753,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0134,5,11,S06,pack,254
+P000754,SKU-94706044,Bourbon Cream Biscuit,Britannia,Snacks,Z10,A0139,6,6,S06,pack,47
+P000755,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0128,2,6,S06,pc,64
+P000756,SKU-95793750,Orange per kg,Local,Fruits,Z02,A0127,6,1,S06,kg,203
+P000757,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0132,4,10,S06,pc,529
+P000758,SKU-70420949,Nescafe Gold 95g,Nescafe,Tea/Coffee,Z12,A0143,3,3,S06,jar,941
+P000759,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0138,4,1,S06,pack,43
+P000760,SKU-62165706,Green Chilli (Khursani) 100g,Local,Vegetables,Z02,A0127,5,6,S06,100g,31
+P000761,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0148,5,7,S06,pack,961
+P000762,SKU-63798966,DDC Milk 1L,DDC,Dairy,Z04,A0130,4,1,S06,pack,103
+P000763,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0128,3,10,S06,pc,81
+P000764,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0143,3,1,S06,pack,436
+P000765,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0127,6,12,S06,kg,124
+P000766,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0127,2,2,S06,kg,71
+P000767,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0140,2,3,S06,pack,28
+P000768,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0138,1,6,S06,pack,119
+P000769,SKU-94687600,Donut (Glazed) per pc,Roadhouse,Bakery,Z03,A0129,4,6,S06,pc,75
+P000770,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0147,5,9,S06,bottle,237
+P000771,SKU-25213122,Eggs (Pack of 6),Local Farm,Dairy,Z04,A0130,5,10,S06,pack,108
+P000772,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0128,6,10,S06,kg,244
+P000773,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0139,6,8,S06,pack,29
+P000774,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0143,6,5,S06,pack,660
+P000775,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0135,5,12,S06,bag,7166
+P000776,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0143,3,6,S06,jar,526
+P000777,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0141,3,3,S06,can,161
+P000778,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0129,5,8,S06,pc,86
+P000779,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0145,3,3,S06,jar,236
+P000780,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0127,2,7,S06,kg,390
+P000781,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0140,1,1,S06,pack,20
+P000782,SKU-01419915,Ice Cream Tub 1L (Chocolate),Igloo,Frozen,Z05,A0131,1,1,S06,tub,462
+P000783,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0127,2,9,S06,kg,360
+P000784,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0148,3,10,S06,pack,419
+P000785,SKU-33015324,Nivea Soft Moisturizer 100g,Nivea,Personal,Z13,A0145,2,3,S06,tub,332
+P000786,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0140,2,9,S06,pack,24
+P000787,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0141,6,4,S06,bottle,209
+P000788,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0130,4,4,S06,pack,568
+P000789,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0139,3,7,S06,roll,30
+P000790,SKU-09874459,Frooti Mango 200ml,Parle,Beverages,Z11,A0142,3,1,S06,pack,24
+P000791,SKU-78905774,Real Mixed Fruit Juice 1L,Dabur,Beverages,Z11,A0141,6,1,S06,pack,210
+P000792,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0135,6,7,S06,pack,148
+P000793,SKU-67847904,Mustard Oil 1L,Tulsi,Oils,Z08,A0136,3,1,S06,bottle,311
+P000794,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0139,4,7,S06,pack,47
+P000795,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0135,4,11,S06,pack,116
+P000796,SKU-66914255,Mountain Dew 2L,Pepsico,Beverages,Z11,A0142,2,1,S06,bottle,205
+P000797,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0137,3,12,S06,pack,65
+P000798,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0138,2,6,S06,bottle,277
+P000799,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0127,4,11,S06,pack,147
+P000800,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0137,4,4,S06,pack,236
+P000801,SKU-86331150,Olive Oil 500ml,Figaro,Oils,Z08,A0136,2,8,S06,bottle,808
+P000802,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0131,3,3,S06,pack,341
+P000803,SKU-42700216,Coconut Crunchies Biscuit,Shree,Snacks,Z10,A0140,3,2,S06,pack,44
+P000804,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0127,4,4,S06,bundle,34
+P000805,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0130,6,10,S06,tub,96
+P000806,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0142,4,4,S06,bottle,212
+P000807,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0138,2,12,S06,pack,87
+P000808,SKU-07908511,Bournvita 500g,Cadbury,Tea/Coffee,Z12,A0143,4,3,S06,jar,382
+P000809,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0146,2,5,S06,pack,270
+P000810,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0128,1,3,S06,kg,115
+P000811,SKU-30270938,Aluminium Foil 9m,Freshwrapp,Household,Z14,A0147,1,3,S06,roll,297
+P000812,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0139,2,9,S06,pack,36
+P000813,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0132,1,3,S06,pack,419
+P000814,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0139,4,2,S06,pack,22
+P000815,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0138,6,11,S06,pack,77
+P000816,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0142,3,1,S06,jar,252
+P000817,SKU-86064035,Vanaspati Ghee 1kg,Dalda,Oils,Z08,A0136,2,11,S06,tin,392
+P000818,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0141,1,3,S06,bottle,30
+P000819,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0127,2,10,S06,dozen,109
+P000820,SKU-21655948,Lifebuoy Soap (4-pack),HUL,Personal,Z13,A0144,1,12,S06,pack,157
+P000821,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0127,3,2,S06,kg,228
+P000822,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0130,1,8,S06,tin,1309
+P000823,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0145,5,7,S06,pc,114
+P000824,SKU-89552454,Snickers 50g,Mars,Confectionery,Z10,A0139,2,11,S06,bar,120
+P000825,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0131,6,12,S06,pack,487
+P000826,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0137,1,9,S06,bottle,340
+P000827,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0144,4,2,S06,pack,222
+P000828,SKU-38138861,Eggs (Tray of 30),Local Farm,Dairy,Z04,A0130,2,4,S06,tray,537
+P000829,SKU-77325499,Odonil Air Freshener,Dabur,Household,Z14,A0147,3,12,S06,pc,131
+P000830,SKU-88286585,Hit Mosquito Spray,Godrej,Household,Z14,A0147,3,5,S06,can,254
+P000831,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0131,1,4,S06,tub,480
+P000832,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0149,4,9,S06,pc,152
+P000833,SKU-32647853,Pril Dishwash Bar 4pc,Henkel,Household,Z14,A0146,3,1,S06,pack,152
+P000834,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0128,1,11,S06,kg,95
+P000835,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0149,3,9,S06,ream,477
+P000836,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0149,4,12,S06,pc,46
+P000837,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0147,4,7,S06,pack,191
+P000838,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0146,4,7,S06,bottle,278
+P000839,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0136,4,7,S06,bottle,1339
+P000840,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0139,2,11,S06,box,713
+P000841,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0138,5,9,S06,jar,276
+P000842,SKU-11814860,Sunflower Oil 5L,Fortune,Oils,Z08,A0136,3,12,S06,bottle,1395
+P000843,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0141,4,4,S06,bottle,227
+P000844,SKU-14238760,Sona Mansuli Rice 25kg,Local Mill,Staples,Z07,A0135,6,2,S06,bag,4026
+P000845,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0128,5,1,S06,kg,62
+P000846,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0144,1,7,S06,bottle,494
+P000847,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0144,3,11,S06,can,391
+P000848,SKU-87099095,Frozen Chicken Sausage 250g,Nimbus,Frozen,Z05,A0131,5,11,S06,pack,319
+P000849,SKU-17084797,Basmati Rice 5kg (Premium),India Gate,Staples,Z07,A0133,5,1,S06,bag,1845
+P000850,SKU-30407514,Sprite 2L,Coca-Cola,Beverages,Z11,A0142,6,8,S06,bottle,210
+P000851,SKU-81477434,Wai Wai Veg (Pack of 30),Chaudhary Group,Snacks,Z10,A0140,5,9,S06,box,756
+P000852,SKU-51295442,Oreo Vanilla 120g,Cadbury,Snacks,Z10,A0139,2,11,S06,pack,77
+P000853,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0129,4,6,S06,pack,87
+P000854,SKU-59178024,Salt 1kg (Iodized),Tata,Staples,Z07,A0134,4,9,S06,pack,54
+P000855,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0139,6,11,S06,pack,52
+P000856,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0134,1,11,S06,pack,201
+P000857,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0140,6,4,S06,pack,52
+P000858,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0130,3,5,S06,pack,286
+P000859,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0138,4,12,S06,bottle,108
+P000860,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0127,5,8,S06,kg,96
+P000861,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0127,2,2,S06,kg,292
+P000862,SKU-40913021,Cauliflower per kg,Local,Vegetables,Z02,A0127,5,6,S06,kg,90
+P000863,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0130,5,3,S06,pack,351
+P000864,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0148,2,11,S06,tin,237
+P000865,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0147,6,8,S06,pack,373
+P000866,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0174,2,7,S07,pc,46
+P000867,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0153,6,3,S07,pc,64
+P000868,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0162,2,9,S07,bottle,362
+P000869,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0165,2,9,S07,pack,49
+P000870,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0164,3,2,S07,pack,25
+P000871,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0167,3,11,S07,bottle,218
+P000872,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0155,5,7,S07,tub,95
+P000873,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0164,4,11,S07,pack,24
+P000874,SKU-87099095,Frozen Chicken Sausage 250g,Nimbus,Frozen,Z05,A0156,3,4,S07,pack,337
+P000875,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0158,4,9,S07,bag,371
+P000876,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0165,2,3,S07,pack,33
+P000877,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0154,5,11,S07,pack,109
+P000878,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0164,4,11,S07,pack,20
+P000879,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0164,5,3,S07,pack,49
+P000880,SKU-21655948,Lifebuoy Soap (4-pack),HUL,Personal,Z13,A0170,3,4,S07,pack,164
+P000881,SKU-83684805,Garbage Bags (50pc),Generic,Household,Z14,A0172,6,9,S07,pack,188
+P000882,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0163,6,6,S07,pack,62
+P000883,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0167,1,7,S07,jar,261
+P000884,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0154,3,1,S07,pack,83
+P000885,SKU-86331150,Olive Oil 500ml,Figaro,Oils,Z08,A0161,4,5,S07,bottle,757
+P000886,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0165,2,10,S07,bar,81
+P000887,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0162,4,12,S07,pack,75
+P000888,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0167,2,1,S07,bottle,29
+P000889,SKU-83201481,Cake Slice (Chocolate),Hot Breads,Bakery,Z03,A0154,6,2,S07,pc,124
+P000890,SKU-88286585,Hit Mosquito Spray,Godrej,Household,Z14,A0172,1,10,S07,can,265
+P000891,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0168,1,12,S07,pack,342
+P000892,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0156,2,8,S07,tub,467
+P000893,SKU-74573998,Dove Soap (4-pack),HUL,Personal,Z13,A0170,6,11,S07,pack,302
+P000894,SKU-25213122,Eggs (Pack of 6),Local Farm,Dairy,Z04,A0155,2,9,S07,pack,114
+P000895,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0152,2,12,S07,kg,73
+P000896,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0155,1,8,S07,pack,264
+P000897,SKU-41661846,Cling Film 30m,Freshwrapp,Household,Z14,A0171,1,1,S07,roll,164
+P000898,SKU-44650587,Himalaya Face Wash Neem,Himalaya,Personal,Z13,A0169,6,5,S07,tube,203
+P000899,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0171,4,11,S07,box,164
+P000900,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0158,1,12,S07,pack,236
+P000901,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0164,2,8,S07,pack,44
+P000902,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0165,2,10,S07,pack,26
+P000903,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0174,6,9,S07,pc,15
+P000904,SKU-93182568,Cerelac Wheat Apple Cherry,Nestle,Baby,Z15,A0173,3,5,S07,pack,418
+P000905,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0153,2,3,S07,bundle,37
+P000906,SKU-86064035,Vanaspati Ghee 1kg,Dalda,Oils,Z08,A0161,6,4,S07,tin,381
+P000907,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0154,1,6,S07,pc,89
+P000908,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0153,6,5,S07,kg,92
+P000909,SKU-36924375,Chilli Powder 200g,Catch,Spices,Z09,A0163,5,12,S07,pack,91
+P000910,SKU-60239111,Sensodyne Toothpaste 75g,GSK,Personal,Z13,A0169,4,3,S07,tube,251
+P000911,SKU-62165706,Green Chilli (Khursani) 100g,Local,Vegetables,Z02,A0152,4,6,S07,100g,31
+P000912,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0162,1,1,S07,pack,91
+P000913,SKU-77325499,Odonil Air Freshener,Dabur,Household,Z14,A0172,1,11,S07,pc,141
+P000914,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0173,6,9,S07,tin,887
+P000915,SKU-30270938,Aluminium Foil 9m,Freshwrapp,Household,Z14,A0172,3,8,S07,roll,281
+P000916,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0161,4,2,S07,bottle,1251
+P000917,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0155,3,5,S07,tin,1262
+P000918,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0156,5,2,S07,pack,320
+P000919,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0155,4,5,S07,pack,575
+P000920,SKU-63798966,DDC Milk 1L,DDC,Dairy,Z04,A0155,2,10,S07,pack,113
+P000921,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0171,1,10,S07,pack,348
+P000922,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0166,1,6,S07,bottle,68
+P000923,SKU-69286579,Atta (Wheat Flour) 10kg,Annapurna,Staples,Z07,A0160,2,11,S07,bag,1127
+P000924,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0174,2,6,S07,pack,315
+P000925,SKU-67847904,Mustard Oil 1L,Tulsi,Oils,Z08,A0161,4,4,S07,bottle,315
+P000926,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0163,3,3,S07,bottle,274
+P000927,SKU-59178024,Salt 1kg (Iodized),Tata,Staples,Z07,A0158,3,2,S07,pack,56
+P000928,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0167,4,2,S07,bottle,215
+P000929,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0170,1,3,S07,pack,227
+P000930,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0152,4,1,S07,dozen,105
+P000931,SKU-42104837,Basmati Rice 25kg,Daawat,Staples,Z07,A0158,5,10,S07,bag,6910
+P000932,SKU-38138861,Eggs (Tray of 30),Local Farm,Dairy,Z04,A0155,6,12,S07,tray,506
+P000933,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0162,5,6,S07,pack,43
+P000934,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0157,6,11,S07,pc,532
+P000935,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0152,3,3,S07,kg,122
+P000936,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0168,1,6,S07,pack,499
+P000937,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0174,6,8,S07,pc,142
+P000938,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0157,3,2,S07,pack,327
+P000939,SKU-70151283,Chicken Breast (Boneless) 1kg,Valley Cold Store,Meat,Z06,A0157,2,2,S07,kg,463
+P000940,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0169,3,9,S07,bottle,422
+P000941,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0173,3,8,S07,pack,960
+P000942,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0165,5,9,S07,bar,105
+P000943,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0157,3,6,S07,pack,815
+P000944,SKU-14238760,Sona Mansuli Rice 25kg,Local Mill,Staples,Z07,A0160,3,7,S07,bag,4223
+P000945,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0174,2,4,S07,ream,496
+P000946,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0171,5,9,S07,pack,190
+P000947,SKU-09874459,Frooti Mango 200ml,Parle,Beverages,Z11,A0167,1,1,S07,pack,24
+P000948,SKU-01419915,Ice Cream Tub 1L (Chocolate),Igloo,Frozen,Z05,A0156,1,8,S07,tub,473
+P000949,SKU-41794839,Real Mango Juice 1L,Dabur,Beverages,Z11,A0166,6,10,S07,pack,214
+P000950,SKU-87665061,Mutton (Khasi) 1kg,Local Butcher,Meat,Z06,A0157,6,4,S07,kg,1390
+P000951,SKU-32647853,Pril Dishwash Bar 4pc,Henkel,Household,Z14,A0172,2,3,S07,pack,160
+P000952,SKU-89552454,Snickers 50g,Mars,Confectionery,Z10,A0165,1,7,S07,bar,119
+P000953,SKU-94706044,Bourbon Cream Biscuit,Britannia,Snacks,Z10,A0165,5,2,S07,pack,44
+P000954,SKU-92049104,Burger Buns (Pack of 6),Hot Breads,Bakery,Z03,A0154,1,2,S07,pack,152
+P000955,SKU-66914255,Mountain Dew 2L,Pepsico,Beverages,Z11,A0166,2,4,S07,bottle,205
+P000956,SKU-51295442,Oreo Vanilla 120g,Cadbury,Snacks,Z10,A0164,5,12,S07,pack,77
+P000957,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0152,2,2,S07,kg,283
+P000958,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0173,1,1,S07,pack,1262
+P000959,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0156,6,3,S07,pack,500
+P000960,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0152,3,2,S07,kg,227
+P000961,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0153,4,10,S07,kg,99
+P000962,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0160,1,6,S07,bag,548
+P000963,SKU-50121908,Sunsilk Shampoo 180ml,HUL,Personal,Z13,A0169,4,7,S07,bottle,176
+P000964,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0157,2,3,S07,pack,430
+P000965,SKU-30407514,Sprite 2L,Coca-Cola,Beverages,Z11,A0166,6,3,S07,bottle,203
+P000966,SKU-17084797,Basmati Rice 5kg (Premium),India Gate,Staples,Z07,A0159,3,3,S07,bag,1795
+P000967,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0166,2,11,S07,bottle,216
+P000968,SKU-40913021,Cauliflower per kg,Local,Vegetables,Z02,A0152,1,1,S07,kg,93
+P000969,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0152,4,1,S07,bundle,25
+P000970,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0164,3,2,S07,pack,29
+P000971,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0155,6,2,S07,pack,330
+P000972,SKU-41666179,DDC Milk 500ml,DDC,Dairy,Z04,A0155,6,1,S07,pack,57
+P000973,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0160,4,2,S07,pack,198
+P000974,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0170,3,10,S07,can,372
+P000975,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0169,4,11,S07,pack,272
+P000976,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0161,4,3,S07,bottle,1415
+P000977,SKU-94687600,Donut (Glazed) per pc,Roadhouse,Bakery,Z03,A0154,6,5,S07,pc,78
+P000978,SKU-81477434,Wai Wai Veg (Pack of 30),Chaudhary Group,Snacks,Z10,A0165,6,8,S07,box,744
+P000979,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0162,6,10,S07,jar,256
+P000980,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0173,4,11,S07,bottle,273
+P000981,SKU-33015324,Nivea Soft Moisturizer 100g,Nivea,Personal,Z13,A0170,5,5,S07,tub,328
+P000982,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0172,5,9,S07,pack,269
+P000983,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0164,6,2,S07,roll,29
+P000984,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0173,3,4,S07,tin,239
+P000985,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0168,5,8,S07,jar,528
+P000986,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0165,4,10,S07,box,781
+P000987,SKU-07908511,Bournvita 500g,Cadbury,Tea/Coffee,Z12,A0168,6,12,S07,jar,368
+P000988,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0168,6,7,S07,jar,479
+P000989,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0152,6,6,S07,kg,392
+P000990,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0153,4,2,S07,pack,146
+P000991,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0170,6,6,S07,bottle,493
+P000992,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0155,4,5,S07,tin,642
+P000993,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0153,4,10,S07,kg,105
+P000994,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0153,1,8,S07,kg,417
+P000995,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0171,5,5,S07,pack,383
+P000996,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0153,3,9,S07,kg,340
+P000997,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0163,3,7,S07,pack,233
+P000998,SKU-34612844,Toor Dal (Rahar) 1kg,Local,Staples,Z07,A0158,5,1,S07,pack,259
+P000999,SKU-70420949,Nescafe Gold 95g,Nescafe,Tea/Coffee,Z12,A0168,1,5,S07,jar,954
+P001000,SKU-55477119,Apsara Pencils (10pk),Apsara,Stationery,Z16,A0174,4,7,S07,pack,86
+P001001,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0156,2,2,S07,pack,175
+P001002,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0164,6,1,S07,pack,22
+P001003,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0168,2,7,S07,pack,430
+P001004,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0170,2,6,S07,pc,411
+P001005,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0171,3,10,S07,bottle,254
+P001006,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0163,4,5,S07,bottle,110
+P001007,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0170,5,10,S07,bottle,276
+P001008,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0153,2,7,S07,kg,251
+P001009,SKU-02813614,Frozen Momo (Veg) 30pc,Hangrila,Frozen,Z05,A0156,1,3,S07,pack,283
+P001010,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0153,2,8,S07,pc,81
+P001011,SKU-11814860,Sunflower Oil 5L,Fortune,Oils,Z08,A0161,6,5,S07,bottle,1413
+P001012,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0167,6,2,S07,can,173
+P001013,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0170,6,9,S07,pc,122
+P001014,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0168,2,5,S07,pack,661
+P001015,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0170,1,9,S07,jar,228
+P001016,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0160,4,5,S07,pack,120
+P001017,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0152,3,5,S07,kg,61
+P001018,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0162,6,11,S07,pack,114
+P001019,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0164,5,11,S07,pack,27
+P001020,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0158,6,8,S07,pack,145
+P001021,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0158,6,1,S07,pack,196
+P001022,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0163,6,2,S07,pack,85
+P001023,SKU-50121908,Sunsilk Shampoo 180ml,HUL,Personal,Z13,A0194,6,4,S08,bottle,186
+P001024,SKU-25213122,Eggs (Pack of 6),Local Farm,Dairy,Z04,A0180,4,4,S08,pack,111
+P001025,SKU-12392571,Pampers Premium Care Pants L,Pampers,Baby,Z15,A0198,3,11,S08,pack,1336
+P001026,SKU-87774998,Nepal Tea Premium 500g,Nepal Tea,Tea/Coffee,Z12,A0193,2,3,S08,pack,510
+P001027,SKU-28141103,Garlic (Lasun) per kg,Local,Vegetables,Z02,A0178,2,9,S08,kg,269
+P001028,SKU-11161917,Mayonnaise 500g,Veeba,Sauces,Z09,A0187,3,1,S08,jar,271
+P001029,SKU-63533403,Horlicks 500g,GSK,Tea/Coffee,Z12,A0193,6,7,S08,jar,483
+P001030,SKU-00566485,Buffalo Ghee 1L,Sujal,Dairy,Z04,A0180,2,11,S08,tin,1276
+P001031,SKU-64480660,Potato (Aalu) per kg,Local,Vegetables,Z02,A0177,6,7,S08,kg,76
+P001032,SKU-29696598,Soybean Oil 5L,Dhara,Oils,Z08,A0186,3,12,S08,bottle,1234
+P001033,SKU-60988071,Mozzarella Cheese 200g,Britannia,Dairy,Z04,A0180,5,10,S08,pack,351
+P001034,SKU-72010906,Buff Mince 500g,Local Butcher,Meat,Z06,A0182,3,10,S08,pack,330
+P001035,SKU-19859161,Toilet Paper (4-roll),Origami,Household,Z14,A0197,2,5,S08,pack,187
+P001036,SKU-64299568,Lizol Floor Cleaner 1L,Reckitt,Household,Z14,A0197,6,10,S08,bottle,278
+P001037,SKU-25225297,Head & Shoulders Shampoo 340ml,P&G,Personal,Z13,A0194,1,6,S08,bottle,462
+P001038,SKU-68192244,Bottle Gourd (Lauka) per pc,Local,Vegetables,Z02,A0178,5,2,S08,pc,63
+P001039,SKU-60253731,Dairy Milk 50g,Cadbury,Confectionery,Z10,A0189,3,4,S08,bar,105
+P001040,SKU-36795178,Ice Cream Tub 1L (Vanilla),KFC Ice Cream,Frozen,Z05,A0181,6,3,S08,tub,477
+P001041,SKU-86064035,Vanaspati Ghee 1kg,Dalda,Oils,Z08,A0186,5,1,S08,tin,403
+P001042,SKU-64063300,Chana Dal 1kg,Local,Staples,Z07,A0185,5,9,S08,pack,207
+P001043,SKU-87215137,Cumin Seeds 100g,Catch,Spices,Z09,A0187,1,1,S08,pack,75
+P001044,SKU-85954215,Nivea Deodorant 150ml,Nivea,Personal,Z13,A0195,4,2,S08,can,384
+P001045,SKU-28306330,Cabbage per piece,Local,Vegetables,Z02,A0177,3,11,S08,pc,83
+P001046,SKU-30407514,Sprite 2L,Coca-Cola,Beverages,Z11,A0192,3,9,S08,bottle,211
+P001047,SKU-60566247,Whisper Sanitary Pads (Pack of 14),P&G,Personal,Z13,A0195,2,9,S08,pack,273
+P001048,SKU-53666130,Center Fresh Gum,Perfetti,Confectionery,Z10,A0189,2,5,S08,pack,26
+P001049,SKU-77529279,Grapes per kg,Imported,Fruits,Z02,A0178,5,9,S08,kg,357
+P001050,SKU-18852854,Good Day Cookies,Britannia,Snacks,Z10,A0190,2,3,S08,pack,48
+P001051,SKU-41617440,Pond's Cold Cream 100g,Ponds,Personal,Z13,A0194,5,5,S08,jar,223
+P001052,SKU-06652868,Kurkure Masala Munch,Pepsico,Snacks,Z10,A0189,1,11,S08,pack,24
+P001053,SKU-77325499,Odonil Air Freshener,Dabur,Household,Z14,A0196,1,10,S08,pc,130
+P001054,SKU-13811608,Tomato Ketchup 1kg,Heinz,Sauces,Z09,A0188,4,9,S08,bottle,361
+P001055,SKU-10591489,Frozen Momo (Buff) 30pc,Hangrila,Frozen,Z05,A0181,4,4,S08,pack,336
+P001056,SKU-52917400,Gillette Mach 3 Razor,Gillette,Personal,Z13,A0194,1,6,S08,pc,445
+P001057,SKU-44891930,Mushroom 200g pack,Local,Vegetables,Z02,A0178,3,11,S08,pack,157
+P001058,SKU-75761166,RaRa Noodles Single Pack,Himalayan Snax,Snacks,Z10,A0189,1,11,S08,pack,22
+P001059,SKU-92869018,Johnson's Baby Shampoo 200ml,Johnson,Baby,Z15,A0198,2,7,S08,bottle,264
+P001060,SKU-11716634,Fish (Rohu) per kg,Local,Meat,Z06,A0182,6,12,S08,kg,390
+P001061,SKU-31174406,Apple (Mustang) per kg,Local,Fruits,Z02,A0177,2,6,S08,kg,253
+P001062,SKU-62633643,Lux Soap (4-pack),HUL,Personal,Z13,A0194,1,7,S08,pack,217
+P001063,SKU-87099095,Frozen Chicken Sausage 250g,Nimbus,Frozen,Z05,A0181,2,2,S08,pack,333
+P001064,SKU-87038569,Mayos Potato Chips,Mayos,Snacks,Z10,A0190,5,1,S08,pack,45
+P001065,SKU-02251801,Mustard Oil 5L,Tulsi,Oils,Z08,A0186,2,12,S08,bottle,1485
+P001066,SKU-36448657,Ariel Detergent 1kg,P&G,Household,Z14,A0196,3,4,S08,pack,387
+P001067,SKU-19259201,Wai Wai Single Pack,Chaudhary Group,Snacks,Z10,A0189,6,5,S08,pack,26
+P001068,SKU-21655948,Lifebuoy Soap (4-pack),HUL,Personal,Z13,A0195,1,12,S08,pack,169
+P001069,SKU-99865268,Red Bull 250ml,Red Bull,Beverages,Z11,A0192,6,1,S08,can,158
+P001070,SKU-57593958,Vim Liquid Dishwash 500ml,HUL,Household,Z14,A0196,2,7,S08,bottle,176
+P001071,SKU-40983056,Coriander Powder 200g,Catch,Spices,Z09,A0187,6,12,S08,pack,90
+P001072,SKU-77299551,Faber-Castell Sketch Pens,Faber-Castell,Stationery,Z16,A0199,5,5,S08,pack,322
+P001073,SKU-87665061,Mutton (Khasi) 1kg,Local Butcher,Meat,Z06,A0182,6,3,S08,kg,1459
+P001074,SKU-94706044,Bourbon Cream Biscuit,Britannia,Snacks,Z10,A0189,3,6,S08,pack,44
+P001075,SKU-70151283,Chicken Breast (Boneless) 1kg,Valley Cold Store,Meat,Z06,A0182,1,12,S08,kg,464
+P001076,SKU-25680127,Cello Tape Roll,Cello,Stationery,Z16,A0199,3,7,S08,pc,47
+P001077,SKU-64748930,Whole Wheat Bread 500g,Hot Breads,Bakery,Z03,A0179,6,8,S08,pack,123
+P001078,SKU-04609159,Pure Cow Ghee 500ml,Sitaram,Dairy,Z04,A0180,3,2,S08,tin,699
+P001079,SKU-70420949,Nescafe Gold 95g,Nescafe,Tea/Coffee,Z12,A0193,3,8,S08,jar,984
+P001080,SKU-51563451,Moong Dal 1kg,Local,Staples,Z07,A0185,1,6,S08,pack,252
+P001081,SKU-18495225,Croissant (single),Roadhouse,Bakery,Z03,A0179,4,3,S08,pc,93
+P001082,SKU-69425267,Bay Leaves 50g,Local,Spices,Z09,A0187,5,10,S08,pack,44
+P001083,SKU-33015324,Nivea Soft Moisturizer 100g,Nivea,Personal,Z13,A0194,4,4,S08,tub,315
+P001084,SKU-69286579,Atta (Wheat Flour) 10kg,Annapurna,Staples,Z07,A0185,6,1,S08,bag,1200
+P001085,SKU-26065394,Parachute Coconut Oil 500ml,Parachute,Personal,Z13,A0195,2,12,S08,bottle,411
+P001086,SKU-81464130,Coriander (Dhania) bundle,Local,Vegetables,Z02,A0177,5,7,S08,bundle,26
+P001087,SKU-24605303,Bru Coffee 100g,Bru,Tea/Coffee,Z12,A0193,6,7,S08,pack,328
+P001088,SKU-65562969,Amul Cheese Cubes 200g,Amul,Dairy,Z04,A0180,4,3,S08,pack,265
+P001089,SKU-43200770,Bisleri Water 1L,Bisleri,Beverages,Z11,A0191,1,4,S08,bottle,31
+P001090,SKU-40732878,Pork Belly 500g,Local Butcher,Meat,Z06,A0182,5,7,S08,pack,400
+P001091,SKU-02813614,Frozen Momo (Veg) 30pc,Hangrila,Frozen,Z05,A0181,1,8,S08,pack,303
+P001092,SKU-19818395,Nescafe Classic 100g Jar,Nescafe,Tea/Coffee,Z12,A0193,2,10,S08,jar,527
+P001093,SKU-45483503,Pepsi 2L,Pepsico,Beverages,Z11,A0192,1,6,S08,bottle,207
+P001094,SKU-78905774,Real Mixed Fruit Juice 1L,Dabur,Beverages,Z11,A0192,5,8,S08,pack,220
+P001095,SKU-77761112,Apple (Imported) per kg,Imported,Fruits,Z02,A0177,6,4,S08,kg,361
+P001096,SKU-13832732,Cream Roll Pack,Krishna Pauroti,Bakery,Z03,A0179,2,6,S08,pack,109
+P001097,SKU-54546358,Tide Detergent 1kg,P&G,Household,Z14,A0196,1,2,S08,pack,267
+P001098,SKU-36817397,Maida (Refined Flour) 5kg,Annapurna,Staples,Z07,A0185,2,4,S08,bag,522
+P001099,SKU-66230760,Brown Rice 2kg,Organic Valley,Staples,Z07,A0185,5,10,S08,bag,396
+P001100,SKU-08141554,Prawns Frozen 500g,Imported,Meat,Z06,A0182,6,12,S08,pack,812
+P001101,SKU-16176413,Soy Sauce 500ml,Kikkoman,Sauces,Z09,A0188,1,10,S08,bottle,291
+P001102,SKU-59135486,Mango per kg (seasonal),Local,Fruits,Z02,A0177,1,8,S08,kg,174
+P001103,SKU-51295442,Oreo Vanilla 120g,Cadbury,Snacks,Z10,A0189,6,11,S08,pack,78
+P001104,SKU-01146012,Carrot per kg,Local,Vegetables,Z02,A0177,2,12,S08,kg,122
+P001105,SKU-74242626,Watermelon per kg,Local,Fruits,Z02,A0178,6,8,S08,kg,61
+P001106,SKU-83684805,Garbage Bags (50pc),Generic,Household,Z14,A0196,1,8,S08,pack,187
+P001107,SKU-11814860,Sunflower Oil 5L,Fortune,Oils,Z08,A0186,1,12,S08,bottle,1344
+P001108,SKU-83656166,Marie Gold Biscuit,Britannia,Snacks,Z10,A0190,2,1,S08,pack,35
+P001109,SKU-60239111,Sensodyne Toothpaste 75g,GSK,Personal,Z13,A0194,6,4,S08,tube,248
+P001110,SKU-64776446,2PM Chicken Noodles,Asian Thai,Snacks,Z10,A0189,6,11,S08,pack,27
+P001111,SKU-38947678,Ginger (Aduwa) per kg,Local,Vegetables,Z02,A0178,1,4,S08,kg,227
+P001112,SKU-23525044,Classmate Notebook 200pg,Classmate,Stationery,Z16,A0199,1,8,S08,pc,138
+P001113,SKU-18434740,Himalayan Spring Water 20L,Himalayan,Beverages,Z11,A0192,2,4,S08,jar,257
+P001114,SKU-41661846,Cling Film 30m,Freshwrapp,Household,Z14,A0196,1,9,S08,roll,167
+P001115,SKU-92733937,Garam Masala 100g,Everest,Spices,Z09,A0188,4,5,S08,pack,110
+P001116,SKU-67847904,Mustard Oil 1L,Tulsi,Oils,Z08,A0186,4,1,S08,bottle,319
+P001117,SKU-81901937,Huggies Diapers M (44pc),Huggies,Baby,Z15,A0198,1,12,S08,pack,945
+P001118,SKU-61513912,Dabur Amla Hair Oil 200ml,Dabur,Personal,Z13,A0194,2,9,S08,bottle,275
+P001119,SKU-16880245,KitKat 4-Finger,Nestle,Confectionery,Z10,A0190,5,6,S08,bar,77
+P001120,SKU-50864150,Lays Magic Masala 50g,Lays,Snacks,Z10,A0189,4,1,S08,pack,48
+P001121,SKU-96209624,Lactogen Formula 400g,Nestle,Baby,Z15,A0198,1,9,S08,tin,898
+P001122,SKU-59294656,Wai Wai Chicken (Pack of 30),Chaudhary Group,Snacks,Z10,A0189,1,9,S08,box,755
+P001123,SKU-66914255,Mountain Dew 2L,Pepsico,Beverages,Z11,A0192,5,10,S08,bottle,216
+P001124,SKU-01419915,Ice Cream Tub 1L (Chocolate),Igloo,Frozen,Z05,A0181,5,2,S08,tub,469
+P001125,SKU-47983771,Tokla CTC Tea 500g,Tokla,Tea/Coffee,Z12,A0193,6,9,S08,pack,445
+P001126,SKU-86331150,Olive Oil 500ml,Figaro,Oils,Z08,A0186,4,7,S08,bottle,793
+P001127,SKU-57939539,Sugar 1kg,Sona,Staples,Z07,A0183,5,12,S08,pack,112
+P001128,SKU-61618557,Cardamom 100g,Local,Spices,Z09,A0188,2,9,S08,pack,464
+P001129,SKU-68016521,Coca-Cola 2L,Coca-Cola,Beverages,Z11,A0192,4,4,S08,bottle,212
+P001130,SKU-67803872,Spinach (Palungo) bundle,Local,Vegetables,Z02,A0177,6,12,S08,bundle,34
+P001131,SKU-09874459,Frooti Mango 200ml,Parle,Beverages,Z11,A0191,4,2,S08,pack,25
+P001132,SKU-16996122,Mustard Seeds 200g,Local,Spices,Z09,A0187,1,9,S08,pack,65
+P001133,SKU-94812637,Red Label Tea 1kg,Brooke Bond,Tea/Coffee,Z12,A0193,6,2,S08,pack,623
+P001134,SKU-33277035,A4 Photocopy Paper Ream,JK,Stationery,Z16,A0199,2,2,S08,ream,465
+P001135,SKU-27012196,Reynolds Ballpoint Pen,Reynolds,Stationery,Z16,A0199,3,5,S08,pc,15
+P001136,SKU-71458401,Frozen Peas 500g,Sumeru,Frozen,Z05,A0181,3,3,S08,pack,180
+P001137,SKU-93944025,Current Bites,CG Foods,Snacks,Z10,A0190,5,6,S08,pack,21
+P001138,SKU-77572684,Surf Excel Detergent 1kg,HUL,Household,Z14,A0197,1,2,S08,pack,330
+P001139,SKU-17137543,Beaten Rice (Chiura) 1kg,Local,Staples,Z07,A0184,1,11,S08,pack,148
+P001140,SKU-62165706,Green Chilli (Khursani) 100g,Local,Vegetables,Z02,A0178,5,4,S08,100g,30
+P001141,SKU-30654765,Chilli Sauce 200ml,Maggi,Sauces,Z09,A0188,4,7,S08,bottle,115
+P001142,SKU-37240632,Brinjal (Bhanta) per kg,Local,Vegetables,Z02,A0177,5,11,S08,kg,92
+P001143,SKU-85546036,Coca-Cola 500ml,Coca-Cola,Beverages,Z11,A0191,6,2,S08,bottle,73
+P001144,SKU-87681548,Tissue Box 200-pull,Origami,Household,Z14,A0197,1,12,S08,box,169
+P001145,SKU-81477434,Wai Wai Veg (Pack of 30),Chaudhary Group,Snacks,Z10,A0189,6,11,S08,box,694
+P001146,SKU-32647853,Pril Dishwash Bar 4pc,Henkel,Household,Z14,A0196,4,1,S08,pack,150
+P001147,SKU-24454824,Fanta 2L,Coca-Cola,Beverages,Z11,A0191,3,8,S08,bottle,205
+P001148,SKU-13010592,Frozen French Fries 1kg,McCain,Frozen,Z05,A0181,2,5,S08,pack,499
+P001149,SKU-73775670,Johnson's Baby Powder 200g,Johnson,Baby,Z15,A0198,3,1,S08,tin,241
+P001150,SKU-22102210,Maggi 2-Min 70g,Nestle,Snacks,Z10,A0190,1,3,S08,pack,28
+P001151,SKU-07908511,Bournvita 500g,Cadbury,Tea/Coffee,Z12,A0193,6,11,S08,jar,402
+P001152,SKU-91504472,Sujal Yoghurt 400g,Sujal,Dairy,Z04,A0180,5,6,S08,tub,93
+P001153,SKU-88286585,Hit Mosquito Spray,Godrej,Household,Z14,A0197,2,1,S08,can,263
+P001154,SKU-23542483,Sliced Bread 400g,Hot Breads,Bakery,Z03,A0179,1,6,S08,pack,83
+P001155,SKU-79124826,Harpic Toilet Cleaner 1L,Reckitt,Household,Z14,A0197,3,6,S08,bottle,233
+P001156,SKU-38399687,Timur (Sichuan Pepper) 100g,Local,Spices,Z09,A0187,2,6,S08,pack,232
+P001157,SKU-25777988,Oral-B Toothbrush,Oral-B,Personal,Z13,A0195,5,3,S08,pc,115
+P001158,SKU-54118603,Pomegranate per kg,Imported,Fruits,Z02,A0178,3,7,S08,kg,425
+P001159,SKU-38547650,Masoor Dal (Musuro) 1kg,Local,Staples,Z07,A0183,3,2,S08,pack,196
+P001160,SKU-34612844,Toor Dal (Rahar) 1kg,Local,Staples,Z07,A0183,4,3,S08,pack,257
+P001161,SKU-01148087,Whole Chicken 1.2kg,Valley Cold Store,Meat,Z06,A0182,1,11,S08,pc,529
+P001162,SKU-57767466,Turmeric Powder 200g,Catch,Spices,Z09,A0188,2,7,S08,pack,89
+P001163,SKU-54506947,Tomato per kg,Local,Vegetables,Z02,A0178,5,12,S08,kg,113
+P001164,SKU-64388204,Mentos Roll,Mentos,Confectionery,Z10,A0190,6,2,S08,roll,30
+P001165,SKU-02567666,Amul Butter 500g,Amul,Dairy,Z04,A0180,2,5,S08,pack,574
+P001166,SKU-24011063,Banana per dozen,Local,Fruits,Z02,A0177,1,12,S08,dozen,107
+P001167,SKU-69051351,Onion (Pyaj) per kg,Local,Vegetables,Z02,A0178,6,2,S08,kg,100
+P001168,SKU-38138861,Eggs (Tray of 30),Local Farm,Dairy,Z04,A0180,2,10,S08,tray,522

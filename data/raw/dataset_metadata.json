@@ -1,0 +1,91 @@
+{
+  "dataset_name": "UrbanMart Smart Retail (Synthetic)",
+  "version": "1.0.0",
+  "created": "2026-04-28",
+  "project": "Smart Grocery Navigation + Scan-to-Pay thesis",
+  "modeled_on": "Generic Kathmandu-valley urban supermarket chain (no real company named or claimed)",
+  "sample_sizes": {
+    "stores": 8,
+    "zones": 17,
+    "aisles": 200,
+    "products": 1168,
+    "customers": 25000,
+    "transactions": 50000,
+    "line_items": 652655,
+    "app_events": 158241,
+    "payment_events": 52879
+  },
+  "currency": "NPR",
+  "vat_pct": 13,
+  "payment_methods": [
+    "Cash",
+    "eSewa",
+    "Khalti",
+    "IME Pay",
+    "FonePay",
+    "ConnectIPS",
+    "Card"
+  ],
+  "scan_methods": [
+    "barcode",
+    "qr_code",
+    "manual_entry",
+    "checkout_pos"
+  ],
+  "loyalty_tiers": [
+    "Standard",
+    "Silver",
+    "Gold",
+    "Platinum"
+  ],
+  "festivals_modeled": [
+    "Dashain (Oct 5-16)",
+    "Tihar (Nov 1-7)",
+    "Nepali New Year (Apr 10-16)"
+  ],
+  "splits": {
+    "train_start": "2024-01-01 08:03:32",
+    "train_end": "2025-07-30 17:26:40",
+    "val_start": "2025-07-30 17:28:17",
+    "val_end": "2025-11-30 12:44:20",
+    "test_start": "2025-11-30 13:08:36",
+    "test_end": "2026-03-31 21:39:49",
+    "n_train": 35000,
+    "n_val": 7500,
+    "n_test": 7500
+  },
+  "files": {
+    "data/stores.csv": "8 store metadata rows.",
+    "data/zones.csv": "17 zone definitions with ambient temperature.",
+    "data/aisles.csv": "200 aisle-level records with x/y floor coordinates.",
+    "data/products.csv": "Per-store product listings (~1,168 rows, each carrying shelf coordinates).",
+    "data/customers.csv": "25,000 anonymized customer profiles.",
+    "data/transactions.csv": "Transaction headers (50,000 rows).",
+    "data/transaction_items.csv": "Line items with scan event data (~653K rows).",
+    "data/app_events.csv": "In-app search and navigation events (~158K rows).",
+    "data/payment_events.csv": "Per-attempt payment events (~53K rows).",
+    "splits/train_transaction_ids.csv": "70% earliest transactions (chronological train set).",
+    "splits/val_transaction_ids.csv": "Next 15% (chronological validation set).",
+    "splits/test_transaction_ids.csv": "Newest 15% (chronological test set).",
+    "samples/smart_retail_dataset_overview.xlsx": "Multi-sheet workbook: README, data dictionary, summary stats, 1000-row previews of every table.",
+    "generate_dataset.py": "Reproducible generator (seed=7, parameterized N_TRANSACTIONS)."
+  },
+  "research_tasks_supported": [
+    "Smart navigation: search-query → target_aisle prediction (using app_events + products).",
+    "Shelf placement / store layout optimization via market-basket + co-aisle co-occurrence.",
+    "In-store path / dwell prediction using zone & aisle visits per trip.",
+    "Scan-to-pay fraud / error detection (rescans, scan_success, payment retries).",
+    "Checkout latency / payment-rail performance benchmarking (latency_ms, payment_attempts).",
+    "Customer segmentation (loyalty × demographics × app usage).",
+    "Demand forecasting at SKU × store × day granularity.",
+    "Festival surge analysis using is_festival_period flag.",
+    "Recommendation systems — next-best-product given current basket."
+  ],
+  "limitations": [
+    "Synthetic. Statistical structure approximates an urban Nepali supermarket but does not represent any real chain.",
+    "Co-purchase patterns are theme-template-driven, not learned from real receipts — basket associations are reasonable but not perfectly realistic.",
+    "Generator was run at 50K transactions (~653K line items) to fit the build environment; reset N_TRANSACTIONS=100_000 in generate_dataset.py to scale up to the originally requested size.",
+    "Spatial coordinates in aisles.csv are randomly placed within a 0-100 unit floor; for a real store-routing study, replace these with a true store layout.",
+    "No PII; no scraping; safe for thesis publication."
+  ]
+}

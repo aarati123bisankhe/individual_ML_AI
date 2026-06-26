@@ -1,0 +1,9 @@
+store_id,store_name,city,area,latitude,longitude,size_sqft,num_aisles,opening_year
+S01,UrbanMart Maharajgunj,Kathmandu,Maharajgunj,27.737,85.33,18000,14,2009
+S02,UrbanMart Pulchowk,Lalitpur,Pulchowk,27.6788,85.3179,14500,12,2012
+S03,UrbanMart Chuchhepati,Kathmandu,Chuchhepati,27.7185,85.354,12000,11,2015
+S04,UrbanMart Bhaktapur,Bhaktapur,Suryabinayak,27.665,85.428,9800,10,2017
+S05,UrbanMart Naxal,Kathmandu,Naxal,27.7148,85.331,11000,10,2018
+S06,UrbanMart Sanepa,Lalitpur,Sanepa,27.689,85.3105,10500,10,2019
+S07,UrbanMart Tinkune,Kathmandu,Tinkune,27.69,85.35,13500,12,2021
+S08,UrbanMart Budhanilkantha,Kathmandu,Budhanilkantha,27.78,85.362,9000,9,2022

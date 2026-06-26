@@ -1,0 +1,11 @@
+model_name,metric,baseline,model_value,improvement_pct,interpretation
+Customer Segmentation,silhouette_score,,0.3268,,Higher is better. Measures cluster separation and cohesion.
+Demand Forecasting,validation_rmse,1.7407,1.4502,16.69,Lower is better. Ridge model reduces forecast error on validation data.
+Demand Forecasting,test_rmse,1.6392,1.3363,18.48,Lower is better. Main forecasting result on unseen test data.
+Demand Forecasting,test_mae,1.0853,0.9195,15.27,Lower is better. Measures average absolute daily forecast error.
+Recommendation Engine,hit_rate_at_3,,0.2629,,Higher is better. True item appears in top 3 recommendations.
+Recommendation Engine,hit_rate_at_5,,0.2977,,Higher is better. True item appears in top 5 recommendations.
+Recommendation Engine,mrr_at_5,,0.2107,,Higher is better. Rewards correct recommendations appearing earlier.
+Scan-to-Pay Anomaly Detection,precision_at_top_5pct,,0.6912,,Higher is better. Measures anomaly quality among the top-ranked flagged transactions.
+Scan-to-Pay Anomaly Detection,precision_at_top_10pct,,0.6897,,Higher is better. Useful for prioritized operational review.
+Scan-to-Pay Anomaly Detection,threshold_precision,,0.6845,,Higher is better. Precision of binary anomaly alerts at the selected threshold.

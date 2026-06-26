@@ -1,0 +1,116 @@
+{
+  "model_type": "kmeans_customer_segmentation",
+  "chosen_k": 3,
+  "inertia": 215008.1484435578,
+  "evaluation": [
+    {
+      "k": 3,
+      "inertia": 215008.1484435578,
+      "silhouette_score": 0.32675046263587865
+    },
+    {
+      "k": 4,
+      "inertia": 178196.94163602788,
+      "silhouette_score": 0.32392146619314877
+    },
+    {
+      "k": 5,
+      "inertia": 169284.71426642558,
+      "silhouette_score": 0.2872707976679202
+    },
+    {
+      "k": 6,
+      "inertia": 151334.80728380106,
+      "silhouette_score": 0.2923007346241168
+    }
+  ],
+  "numeric_features": [
+    "transaction_count",
+    "total_spend_npr",
+    "avg_order_value_npr",
+    "total_units",
+    "avg_basket_size",
+    "avg_dwell_minutes",
+    "avg_aisles_visited",
+    "scan_to_pay_rate",
+    "payment_success_rate",
+    "app_searches_total",
+    "app_directions_total",
+    "festival_transaction_count",
+    "unique_products_bought",
+    "customer_tenure_days",
+    "recency_days",
+    "spend_per_visit_npr",
+    "app_engagement_events"
+  ],
+  "scaling_stats": {
+    "transaction_count": {
+      "mean": 2.0,
+      "std": 2.2417493169397864
+    },
+    "total_spend_npr": {
+      "mean": 12616.10004,
+      "std": 16960.259258816535
+    },
+    "avg_order_value_npr": {
+      "mean": 4667.321935042713,
+      "std": 5343.596403194239
+    },
+    "total_units": {
+      "mean": 35.47368,
+      "std": 45.463368410816194
+    },
+    "avg_basket_size": {
+      "mean": 9.551651879460046,
+      "std": 9.257863350266309
+    },
+    "avg_dwell_minutes": {
+      "mean": 9.681719189038125,
+      "std": 8.085645999048568
+    },
+    "avg_aisles_visited": {
+      "mean": 5.781650115827203,
+      "std": 4.739595988998111
+    },
+    "scan_to_pay_rate": {
+      "mean": 0.4212303402995354,
+      "std": 0.48028964878443875
+    },
+    "payment_success_rate": {
+      "mean": 0.7321321637806637,
+      "std": 0.44208197039641517
+    },
+    "app_searches_total": {
+      "mean": 3.9256,
+      "std": 7.166800167438744
+    },
+    "app_directions_total": {
+      "mean": 2.40404,
+      "std": 4.539893355399442
+    },
+    "festival_transaction_count": {
+      "mean": 0.12544,
+      "std": 0.3713015033635064
+    },
+    "unique_products_bought": {
+      "mean": 24.50924,
+      "std": 29.532514871280437
+    },
+    "customer_tenure_days": {
+      "mean": 951.75528,
+      "std": 347.29434851739467
+    },
+    "recency_days": {
+      "mean": 456.11744,
+      "std": 396.8349231202395
+    },
+    "spend_per_visit_npr": {
+      "mean": 4667.321935042713,
+      "std": 5343.596403194239
+    },
+    "app_engagement_events": {
+      "mean": 6.32964,
+      "std": 11.42849497836001
+    }
+  }
+}

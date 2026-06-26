@@ -1,0 +1,18 @@
+zone_id,zone_name,ambient_temp_c,is_perimeter
+Z01,Entry / Trolleys,22,True
+Z02,Fresh Produce,16,True
+Z03,Bakery,22,True
+Z04,Dairy & Eggs,4,True
+Z05,Frozen Foods,-18,True
+Z06,Meat & Seafood,4,True
+Z07,Dry Staples (Rice/Dal/Atta),22,False
+Z08,Cooking Oils & Ghee,22,False
+Z09,Spices & Condiments,22,False
+Z10,Snacks & Confectionery,22,False
+Z11,Beverages,22,False
+Z12,Tea / Coffee / Health Drinks,22,False
+Z13,Personal Care,22,False
+Z14,Household & Cleaning,22,False
+Z15,Baby Care,22,False
+Z16,Stationery & Misc,22,False
+Z17,Checkout / Scan-to-Pay,22,True

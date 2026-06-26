@@ -1,0 +1,254 @@
+{
+  "raw_directory": "/Users/aaratithapa/Development/6th_sem/Individual/data/raw",
+  "clean_directory": "/Users/aaratithapa/Development/6th_sem/Individual/data/cleaned",
+  "files": {
+    "stores.csv": {
+      "rows": 8,
+      "columns": [
+        "store_id",
+        "store_name",
+        "city",
+        "area",
+        "latitude",
+        "longitude",
+        "size_sqft",
+        "num_aisles",
+        "opening_year"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0
+    },
+    "zones.csv": {
+      "rows": 17,
+      "columns": [
+        "zone_id",
+        "zone_name",
+        "ambient_temp_c",
+        "is_perimeter"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0
+    },
+    "aisles.csv": {
+      "rows": 200,
+      "columns": [
+        "aisle_id",
+        "store_id",
+        "zone_id",
+        "aisle_number_in_zone",
+        "x_coord",
+        "y_coord"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0
+    },
+    "products.csv": {
+      "rows": 1168,
+      "columns": [
+        "product_id",
+        "sku",
+        "product_name",
+        "brand",
+        "subcategory",
+        "zone_id",
+        "aisle_id",
+        "shelf_number",
+        "shelf_position",
+        "store_id",
+        "unit",
+        "price_npr"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0
+    },
+    "customers.csv": {
+      "rows": 25000,
+      "columns": [
+        "customer_id",
+        "loyalty_tier",
+        "gender",
+        "age_bucket",
+        "home_area",
+        "registered_on",
+        "uses_app"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0,
+      "timestamp_ranges": {
+        "registered_on": {
+          "min": "2022-01-01 00:00:00",
+          "max": "2025-04-14 00:00:00"
+        }
+      }
+    },
+    "transactions.csv": {
+      "rows": 50000,
+      "columns": [
+        "transaction_id",
+        "customer_id",
+        "store_id",
+        "entry_timestamp",
+        "exit_timestamp",
+        "dwell_minutes",
+        "num_distinct_items",
+        "num_total_units",
+        "aisles_visited",
+        "n_app_searches",
+        "n_app_directions",
+        "subtotal_npr",
+        "discount_npr",
+        "total_after_discount_npr",
+        "vat_13pct_npr",
+        "grand_total_npr",
+        "payment_method",
+        "scan_to_pay_used",
+        "payment_attempts",
+        "payment_status",
+        "customer_loyalty_tier",
+        "is_festival_period"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0,
+      "timestamp_ranges": {
+        "entry_timestamp": {
+          "min": "2024-01-01 08:03:32",
+          "max": "2026-03-31 21:39:49"
+        },
+        "exit_timestamp": {
+          "min": "2024-01-01 08:06:18",
+          "max": "2026-03-31 21:49:09"
+        }
+      }
+    },
+    "transaction_items.csv": {
+      "rows": 652655,
+      "columns": [
+        "line_item_id",
+        "transaction_id",
+        "product_id",
+        "sku",
+        "product_name",
+        "zone_id",
+        "aisle_id",
+        "quantity",
+        "unit_price_npr",
+        "line_total_npr",
+        "scan_timestamp",
+        "scan_method",
+        "scan_duration_ms",
+        "rescans",
+        "scan_success"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0,
+      "timestamp_ranges": {
+        "scan_timestamp": {
+          "min": "2024-01-01 08:05:28",
+          "max": "2026-03-31 21:47:40"
+        }
+      }
+    },
+    "app_events.csv": {
+      "rows": 158241,
+      "columns": [
+        "event_id",
+        "transaction_id",
+        "customer_id",
+        "store_id",
+        "event_timestamp",
+        "event_type",
+        "search_query",
+        "target_aisle_id"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {
+        "search_query": 60101,
+        "target_aisle_id": 98140
+      },
+      "duplicate_primary_keys": 0,
+      "timestamp_ranges": {
+        "event_timestamp": {
+          "min": "2024-01-01 09:19:39",
+          "max": "2026-03-31 20:59:24"
+        }
+      }
+    },
+    "payment_events.csv": {
+      "rows": 52879,
+      "columns": [
+        "payment_event_id",
+        "transaction_id",
+        "attempt_number",
+        "payment_method",
+        "attempt_timestamp",
+        "latency_ms",
+        "status",
+        "amount_npr"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {},
+      "duplicate_primary_keys": 0,
+      "timestamp_ranges": {
+        "attempt_timestamp": {
+          "min": "2024-01-01 08:05:48",
+          "max": "2026-03-31 21:48:39"
+        }
+      }
+    },
+    "train_transaction_ids.csv": {
+      "rows": 35000,
+      "columns": [
+        "transaction_id"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {}
+    },
+    "val_transaction_ids.csv": {
+      "rows": 7500,
+      "columns": [
+        "transaction_id"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {}
+    },
+    "test_transaction_ids.csv": {
+      "rows": 7500,
+      "columns": [
+        "transaction_id"
+      ],
+      "duplicate_rows": 0,
+      "missing_values": {}
+    }
+  },
+  "foreign_key_violations": {
+    "aisles.store_id": 0,
+    "aisles.zone_id": 0,
+    "products.store_id": 0,
+    "products.zone_id": 0,
+    "products.aisle_id": 0,
+    "transactions.customer_id": 0,
+    "transactions.store_id": 0,
+    "transaction_items.transaction_id": 0,
+    "transaction_items.product_id": 0,
+    "transaction_items.aisle_id": 0,
+    "app_events.transaction_id": 0,
+    "app_events.customer_id": 0,
+    "app_events.store_id": 0,
+    "app_events.target_aisle_id_non_null": 0,
+    "payment_events.transaction_id": 0
+  },
+  "notes": [
+    "Raw files are preserved unchanged in data/raw.",
+    "Whitespace was normalized across string columns.",
+    "Timestamp columns were parsed and exported in YYYY-MM-DD HH:MM:SS format.",
+    "Boolean columns were normalized consistently.",
+    "app_events keeps semantically valid missing values: search_query is blank for directions_request rows, and target_aisle_id is blank for search_query rows."
+  ]
+}

@@ -1,0 +1,13 @@
+dataset,rows,columns,duplicate_rows,missing_columns_count,total_missing_values,duplicate_primary_keys,note,registered_on_min,registered_on_max,entry_timestamp_min,entry_timestamp_max,exit_timestamp_min,exit_timestamp_max,scan_timestamp_min,scan_timestamp_max,event_timestamp_min,event_timestamp_max,attempt_timestamp_min,attempt_timestamp_max,foreign_key_violations_total,pipeline_corrections_applied
+stores.csv,8,9,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,0
+zones.csv,17,4,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,0
+aisles.csv,200,6,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,0
+products.csv,1168,12,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,86
+customers.csv,25000,7,0,0,0,0,No major cleaning issue detected.,2022-01-01 00:00:00,2025-04-14 00:00:00,,,,,,,,,,,0,0
+transactions.csv,50000,22,0,0,0,0,No major cleaning issue detected.,,,2024-01-01 08:03:32,2026-03-31 21:39:49,2024-01-01 08:06:18,2026-03-31 21:49:09,,,,,,,0,695
+transaction_items.csv,652655,15,0,0,0,0,No major cleaning issue detected.,,,,,,,2024-01-01 08:05:28,2026-03-31 21:47:40,,,,,0,0
+app_events.csv,158241,8,0,2,158241,0,Missing values are expected: search_query is blank for directions_request and target_aisle_id is blank for search_query.,,,,,,,,,2024-01-01 09:19:39,2026-03-31 20:59:24,,,0,0
+payment_events.csv,52879,8,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,2024-01-01 08:05:48,2026-03-31 21:48:39,0,2984
+train_transaction_ids.csv,35000,1,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,0
+val_transaction_ids.csv,7500,1,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,0
+test_transaction_ids.csv,7500,1,0,0,0,0,No major cleaning issue detected.,,,,,,,,,,,,,0,0
