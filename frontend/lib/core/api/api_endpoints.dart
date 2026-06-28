@@ -5,4 +5,5 @@ class ApiEndpoints {
   static const inventoryDemand = '$baseUrl/api/inventory/demand';
   static const customerSegment = '$baseUrl/api/models/customer-segment';
   static const scanRisk = '$baseUrl/api/models/scan-risk';
+  static const dashboardSummary = '$baseUrl/api/dashboard/summary';
 }

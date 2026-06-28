@@ -3,7 +3,9 @@ from __future__ import annotations
 from typing import Any, Dict, Optional
 
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 
+from services.dashboard_service import DashboardService
 from services.inventory_service import InventoryService
 from services.model_service import ModelService
 from services.navigation_service import NavigationService
@@ -18,6 +20,15 @@ app = FastAPI(
 navigation_service = NavigationService()
 inventory_service = InventoryService()
 model_service = ModelService()
+dashboard_service = DashboardService()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.get("/")
@@ -30,6 +41,7 @@ def root() -> Dict[str, Any]:
             "/api/inventory/demand?product_id=P000001&store_id=S01",
             "/api/models/customer-segment?customer_id=C0000001",
             "/api/models/scan-risk?transaction_id=T00000002",
+            "/api/dashboard/summary",
         ],
     }
 
@@ -72,3 +84,8 @@ def scan_risk(transaction_id: str = Query(...)) -> Dict[str, Any]:
     if result is None:
         raise HTTPException(status_code=404, detail="Scan risk result not found")
     return {"transaction_id": transaction_id, "result": result}
+
+
+@app.get("/api/dashboard/summary")
+def dashboard_summary() -> Dict[str, Any]:
+    return dashboard_service.get_summary()
