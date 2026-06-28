@@ -1,0 +1,41 @@
+{
+  "model_type": "fuzzy_navigation_product_locator",
+  "overall_top1_product_accuracy": 0.7446489726027398,
+  "overall_top1_aisle_accuracy": 0.8940496575342466,
+  "overall_top1_zone_accuracy": 0.9751712328767124,
+  "overall_top3_product_accuracy": 0.8313356164383562,
+  "query_type_metrics": [
+    {
+      "query_type": "category",
+      "total_queries": 1168,
+      "top1_product_accuracy": 0.11643835616438356,
+      "top1_aisle_accuracy": 0.634417808219178,
+      "top1_zone_accuracy": 0.9426369863013698,
+      "top3_product_accuracy": 0.3613013698630137
+    },
+    {
+      "query_type": "exact",
+      "total_queries": 1168,
+      "top1_product_accuracy": 1.0,
+      "top1_aisle_accuracy": 1.0,
+      "top1_zone_accuracy": 1.0,
+      "top3_product_accuracy": 1.0
+    },
+    {
+      "query_type": "misspelled",
+      "total_queries": 1168,
+      "top1_product_accuracy": 0.9092465753424658,
+      "top1_aisle_accuracy": 0.949486301369863,
+      "top1_zone_accuracy": 0.9580479452054794,
+      "top3_product_accuracy": 0.964041095890411
+    },
+    {
+      "query_type": "partial",
+      "total_queries": 1168,
+      "top1_product_accuracy": 0.9529109589041096,
+      "top1_aisle_accuracy": 0.9922945205479452,
+      "top1_zone_accuracy": 1.0,
+      "top3_product_accuracy": 1.0
+    }
+  ]
+}
