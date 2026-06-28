@@ -11,4 +11,10 @@ This folder contains visual testing artifacts for the AI/ML models.
 - `overall_model_accuracy_bar_graph.svg`
   Gives a compact snapshot of the main metric used for each current model.
 
+- `project_ai_accuracy_bar_graph.svg`
+  Shows the percentage accuracy of the three app-aligned AI models directly inside the bars.
+
+- `project_ai_accuracy_line_graph.svg`
+  Shows the same three app-aligned model percentages in a line graph.
+
 These graphs are suitable for thesis results, presentations, and viva explanation.

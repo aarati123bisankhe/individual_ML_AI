@@ -18,15 +18,15 @@
 <text x="110" y="84.0" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="normal" fill="#5b6d62" text-anchor="end">1.60</text>
 <rect x="120" y="106.25" width="165.07520766294994" height="52.5" fill="#2a7f62" rx="5"/>
 <text x="105" y="136.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Customer Segmentation</text>
-<text x="295.07520766294994" y="136.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2a7f62" text-anchor="start">0.3268</text>
+<text x="295.07520766294994" y="136.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2a7f62" text-anchor="start">32.68%</text>
 <rect x="120" y="211.25" width="674.9999999999999" height="52.5" fill="#d08c60" rx="5"/>
 <text x="105" y="241.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Demand Forecasting</text>
 <text x="804.9999999999999" y="241.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#d08c60" text-anchor="start">1.3363</text>
 <rect x="120" y="316.25" width="150.37603831474968" height="52.5" fill="#8b5fbf" rx="5"/>
 <text x="105" y="346.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Recommendation Engine</text>
-<text x="280.3760383147497" y="346.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8b5fbf" text-anchor="start">0.2977</text>
+<text x="280.3760383147497" y="346.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#8b5fbf" text-anchor="start">29.77%</text>
 <rect x="120" y="421.25" width="348.3854673351792" height="52.5" fill="#2e6ea6" rx="5"/>
 <text x="105" y="451.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#24342c" text-anchor="end">Scan-to-Pay Anomaly Detection</text>
-<text x="478.3854673351792" y="451.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e6ea6" text-anchor="start">0.6897</text>
-<text x="490.0" y="556" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#4b6357" text-anchor="middle">Each bar uses that model's own primary evaluation metric</text>
+<text x="478.3854673351792" y="451.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2e6ea6" text-anchor="start">68.97%</text>
+<text x="490.0" y="556" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#4b6357" text-anchor="middle">Percentage labels are shown where the metric is naturally bounded between 0 and 1.</text>
 </svg>

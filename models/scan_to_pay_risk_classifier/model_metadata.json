@@ -1,0 +1,43 @@
+{
+  "model_type": "logistic_scan_to_pay_risk_classifier",
+  "feature_columns": [
+    "payment_attempts",
+    "avg_payment_latency_ms",
+    "max_payment_latency_ms",
+    "retry_events",
+    "failed_payment_events",
+    "total_rescans",
+    "failed_scan_items",
+    "avg_scan_duration_ms",
+    "max_scan_duration_ms",
+    "scan_failure_rate",
+    "rescan_rate",
+    "checkout_complexity_score",
+    "app_scan_share"
+  ],
+  "selected_threshold": 0.44999999999999996,
+  "train_rows": 20067,
+  "validation_rows": 4380,
+  "test_rows": 4352,
+  "validation_metrics": {
+    "accuracy": 0.9878995433789954,
+    "precision": 0.987513378523011,
+    "recall": 0.9935391241923905,
+    "f1_score": 0.9905170871354446,
+    "tp": 2768,
+    "tn": 1559,
+    "fp": 35,
+    "fn": 18
+  },
+  "test_metrics": {
+    "accuracy": 0.984375,
+    "precision": 0.984876429361859,
+    "recall": 0.9899888765294772,
+    "f1_score": 0.9874260355029586,
+    "tp": 2670,
+    "tn": 1614,
+    "fp": 41,
+    "fn": 27
+  },
+  "positive_rate_test": 0.6197150735294118
+}

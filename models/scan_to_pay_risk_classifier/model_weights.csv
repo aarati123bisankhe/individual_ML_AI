@@ -1,0 +1,15 @@
+feature,weight
+intercept,0.6269112383562119
+payment_attempts,0.28977295974266043
+avg_payment_latency_ms,-0.013213042795169487
+max_payment_latency_ms,0.03488163844299581
+retry_events,0.2897729597426606
+failed_payment_events,0.04276732510131356
+total_rescans,0.8274537500153752
+failed_scan_items,0.3985865557180027
+avg_scan_duration_ms,-0.1035077442391781
+max_scan_duration_ms,0.32883804896356733
+scan_failure_rate,0.35572780209175076
+rescan_rate,0.9107032580833148
+checkout_complexity_score,0.5845588188075735
+app_scan_share,0.0

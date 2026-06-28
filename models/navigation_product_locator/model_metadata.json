@@ -1,0 +1,8 @@
+{
+  "model_type": "exact_match_product_navigation_locator",
+  "evaluated_search_events": 98140,
+  "matched_search_events": 98140,
+  "top_1_navigation_accuracy": 1.0,
+  "zone_accuracy": 1.0,
+  "shelf_accuracy": 1.0
+}
