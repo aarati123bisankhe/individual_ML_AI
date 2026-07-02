@@ -17,9 +17,7 @@ class PaymentConfirmationPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Payment Complete'),
-      ),
+      appBar: AppBar(title: const Text('Payment Complete')),
       body: SafeArea(
         child: Padding(
           padding: const EdgeInsets.all(20),
@@ -42,9 +40,9 @@ class PaymentConfirmationPage extends StatelessWidget {
               const SizedBox(height: 24),
               Text(
                 'Checkout successful',
-                style: Theme.of(context).textTheme.headlineMedium?.copyWith(
-                      fontSize: 30,
-                    ),
+                style: Theme.of(
+                  context,
+                ).textTheme.headlineMedium?.copyWith(fontSize: 30),
                 textAlign: TextAlign.center,
               ),
               const SizedBox(height: 10),

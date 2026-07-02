@@ -4,7 +4,7 @@ import '../datasources/dashboard_remote_data_source.dart';
 
 class DashboardRepositoryImpl implements DashboardRepository {
   DashboardRepositoryImpl({DashboardRemoteDataSource? remoteDataSource})
-      : _remoteDataSource = remoteDataSource ?? DashboardRemoteDataSource();
+    : _remoteDataSource = remoteDataSource ?? DashboardRemoteDataSource();
 
   final DashboardRemoteDataSource _remoteDataSource;
 

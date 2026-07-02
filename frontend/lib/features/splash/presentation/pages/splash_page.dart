@@ -30,10 +30,7 @@ class _SplashPageState extends State<SplashPage> {
         padding: const EdgeInsets.all(28),
         decoration: const BoxDecoration(
           gradient: LinearGradient(
-            colors: [
-              Color(0xFF14532D),
-              Color(0xFF0F766E),
-            ],
+            colors: [Color(0xFF14532D), Color(0xFF0F766E), Color(0xFF7C3AED)],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
@@ -44,11 +41,12 @@ class _SplashPageState extends State<SplashPage> {
             children: [
               const Spacer(),
               Container(
-                width: 72,
-                height: 72,
+                width: 78,
+                height: 78,
                 decoration: BoxDecoration(
                   color: Colors.white.withValues(alpha: 0.14),
-                  borderRadius: BorderRadius.circular(16),
+                  borderRadius: BorderRadius.circular(22),
+                  border: Border.all(color: Colors.white24),
                 ),
                 child: const Icon(
                   Icons.shopping_basket_rounded,
@@ -60,7 +58,7 @@ class _SplashPageState extends State<SplashPage> {
               const Text(
                 'Smart Grocery',
                 style: TextStyle(
-                  fontSize: 34,
+                  fontSize: 36,
                   fontWeight: FontWeight.w800,
                   color: Colors.white,
                 ),

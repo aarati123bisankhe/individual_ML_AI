@@ -66,14 +66,38 @@ class _InventoryPageState extends State<InventoryPage> {
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
-        Text(
-          'Demand forecasting for inventory planning',
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
-        const SizedBox(height: 10),
-        Text(
-          'This screen supports the backend inventory system by estimating which products may need replenishment soon.',
-          style: Theme.of(context).textTheme.bodyLarge,
+        Container(
+          padding: const EdgeInsets.all(22),
+          decoration: BoxDecoration(
+            gradient: const LinearGradient(
+              colors: [Color(0xFF0F766E), Color(0xFF14532D)],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+            ),
+            borderRadius: BorderRadius.circular(24),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: const [
+              Text(
+                'Demand forecasting for inventory planning',
+                style: TextStyle(
+                  fontSize: 28,
+                  fontWeight: FontWeight.w700,
+                  color: Colors.white,
+                ),
+              ),
+              SizedBox(height: 10),
+              Text(
+                'This screen supports the backend inventory system by estimating which products may need replenishment soon.',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Color(0xFFE7F8F6),
+                  height: 1.45,
+                ),
+              ),
+            ],
+          ),
         ),
         const SizedBox(height: 20),
         SectionCard(
@@ -139,28 +163,35 @@ class _ForecastTile extends StatelessWidget {
     final label = result.predictedClass == 1 ? 'Restock likely' : 'Stable';
     return Container(
       margin: const EdgeInsets.only(top: 12),
-      padding: const EdgeInsets.all(14),
+      padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
-        color: const Color(0xFFF7FAF8),
-        borderRadius: BorderRadius.circular(8),
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(18),
+        border: Border.all(color: const Color(0xFFDCE5DF)),
       ),
       child: Row(
         children: [
           Container(
-            width: 42,
-            height: 42,
+            width: 46,
+            height: 46,
             decoration: BoxDecoration(
               color: AppTheme.secondary.withValues(alpha: 0.12),
-              borderRadius: BorderRadius.circular(8),
+              borderRadius: BorderRadius.circular(14),
             ),
-            child: const Icon(Icons.trending_up_rounded, color: AppTheme.secondary),
+            child: const Icon(
+              Icons.trending_up_rounded,
+              color: AppTheme.secondary,
+            ),
           ),
           const SizedBox(width: 12),
           Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(result.salesDate, style: Theme.of(context).textTheme.titleMedium),
+                Text(
+                  result.salesDate,
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
                 const SizedBox(height: 4),
                 Text(
                   '$label • ${probability.toStringAsFixed(1)}% probability',

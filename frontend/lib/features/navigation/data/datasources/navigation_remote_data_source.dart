@@ -4,7 +4,7 @@ import '../models/navigation_result_model.dart';
 
 class NavigationRemoteDataSource {
   NavigationRemoteDataSource({ApiClient? client})
-      : _client = client ?? const ApiClient();
+    : _client = client ?? const ApiClient();
 
   final ApiClient _client;
 
@@ -19,7 +19,10 @@ class NavigationRemoteDataSource {
     final response = await _client.getMap(uri);
     final results = response['results'] as List<dynamic>? ?? const [];
     return results
-        .map((item) => NavigationResultModel.fromJson(item as Map<String, dynamic>))
+        .map(
+          (item) =>
+              NavigationResultModel.fromJson(item as Map<String, dynamic>),
+        )
         .toList();
   }
 }

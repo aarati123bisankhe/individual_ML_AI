@@ -17,10 +17,12 @@ class DashboardSummaryModel extends DashboardSummary {
           (json['inventory_accuracy_pct'] as num?)?.toDouble() ?? 0,
       scanRiskAccuracyPct:
           (json['scan_risk_accuracy_pct'] as num?)?.toDouble() ?? 0,
-      highDemandProducts: (json['high_demand_products'] as List<dynamic>? ?? const [])
-          .cast<Map<String, dynamic>>(),
-      riskyTransactions: (json['risky_transactions'] as List<dynamic>? ?? const [])
-          .cast<Map<String, dynamic>>(),
+      highDemandProducts:
+          (json['high_demand_products'] as List<dynamic>? ?? const [])
+              .cast<Map<String, dynamic>>(),
+      riskyTransactions:
+          (json['risky_transactions'] as List<dynamic>? ?? const [])
+              .cast<Map<String, dynamic>>(),
     );
   }
 }

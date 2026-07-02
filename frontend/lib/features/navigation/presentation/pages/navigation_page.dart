@@ -67,14 +67,9 @@ class _NavigationPageState extends State<NavigationPage> {
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
-        Text(
-          'Find products faster inside the store',
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
-        const SizedBox(height: 10),
-        Text(
-          'Customers can search for any item and the app returns aisle, shelf, and store zone guidance.',
-          style: Theme.of(context).textTheme.bodyLarge,
+        _HeroPanel(
+          searchController: _searchController,
+          onSearch: _searchProducts,
         ),
         const SizedBox(height: 20),
         const InfoBanner(
@@ -141,19 +136,43 @@ class _NavigationResultTile extends StatelessWidget {
     final score = result.score * 100;
     return Container(
       margin: const EdgeInsets.only(top: 12),
-      padding: const EdgeInsets.all(14),
+      padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
-        color: const Color(0xFFF7FAF8),
-        borderRadius: BorderRadius.circular(8),
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(18),
+        border: Border.all(color: const Color(0xFFDCE5DF)),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(
-            result.productName,
-            style: Theme.of(context).textTheme.titleMedium,
+          Row(
+            children: [
+              Container(
+                width: 42,
+                height: 42,
+                decoration: BoxDecoration(
+                  color: AppTheme.primary.withValues(alpha: 0.12),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: const Icon(
+                  Icons.place_outlined,
+                  color: AppTheme.primary,
+                ),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Text(
+                  result.productName,
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
+              ),
+            ],
           ),
-          const SizedBox(height: 8),
+          Text(
+            result.subcategory,
+            style: Theme.of(context).textTheme.bodyMedium,
+          ),
+          const SizedBox(height: 12),
           Wrap(
             spacing: 8,
             runSpacing: 8,
@@ -179,13 +198,90 @@ class _ResultChip extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 9),
       decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(8),
+        color: const Color(0xFFF4F8F5),
+        borderRadius: BorderRadius.circular(999),
         border: Border.all(color: const Color(0xFFD8E2DD)),
       ),
       child: Text(label, style: Theme.of(context).textTheme.bodyMedium),
+    );
+  }
+}
+
+class _HeroPanel extends StatelessWidget {
+  const _HeroPanel({required this.searchController, required this.onSearch});
+
+  final TextEditingController searchController;
+  final VoidCallback onSearch;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.all(22),
+      decoration: BoxDecoration(
+        gradient: const LinearGradient(
+          colors: [Color(0xFF14532D), Color(0xFF0F766E)],
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+        ),
+        borderRadius: BorderRadius.circular(24),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'Find products faster inside the store',
+            style: TextStyle(
+              fontSize: 28,
+              fontWeight: FontWeight.w700,
+              color: Colors.white,
+            ),
+          ),
+          const SizedBox(height: 10),
+          const Text(
+            'Customers can search for any item and the app returns aisle, shelf, and zone guidance in seconds.',
+            style: TextStyle(
+              fontSize: 14,
+              color: Color(0xFFE8F4EE),
+              height: 1.45,
+            ),
+          ),
+          const SizedBox(height: 18),
+          Container(
+            padding: const EdgeInsets.all(10),
+            decoration: BoxDecoration(
+              color: Colors.white.withValues(alpha: 0.12),
+              borderRadius: BorderRadius.circular(18),
+            ),
+            child: Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: searchController,
+                    decoration: const InputDecoration(
+                      hintText: 'Search milk, rice, momo, soap...',
+                      prefixIcon: Icon(Icons.search_rounded),
+                      fillColor: Colors.white,
+                    ),
+                    onSubmitted: (_) => onSearch(),
+                  ),
+                ),
+                const SizedBox(width: 10),
+                FilledButton.icon(
+                  onPressed: onSearch,
+                  style: FilledButton.styleFrom(
+                    backgroundColor: Colors.white,
+                    foregroundColor: AppTheme.primary,
+                  ),
+                  icon: const Icon(Icons.travel_explore_rounded),
+                  label: const Text('Find'),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
     );
   }
 }

@@ -55,14 +55,38 @@ class _DashboardPageState extends State<DashboardPage> {
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
-        Text(
-          'Store intelligence dashboard',
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
-        const SizedBox(height: 10),
-        Text(
-          'Managers can monitor model accuracy, forecasted demand, and scan-to-pay risk in one place.',
-          style: Theme.of(context).textTheme.bodyLarge,
+        Container(
+          padding: const EdgeInsets.all(22),
+          decoration: BoxDecoration(
+            gradient: const LinearGradient(
+              colors: [Color(0xFF7C3AED), Color(0xFF14532D)],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+            ),
+            borderRadius: BorderRadius.circular(24),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: const [
+              Text(
+                'Store intelligence dashboard',
+                style: TextStyle(
+                  fontSize: 28,
+                  fontWeight: FontWeight.w700,
+                  color: Colors.white,
+                ),
+              ),
+              SizedBox(height: 10),
+              Text(
+                'Managers can monitor model accuracy, forecasted demand, and scan-to-pay risk in one place.',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Color(0xFFF0ECFF),
+                  height: 1.45,
+                ),
+              ),
+            ],
+          ),
         ),
         const SizedBox(height: 20),
         if (_error != null)
@@ -127,7 +151,7 @@ class _DashboardPageState extends State<DashboardPage> {
                     (item) => _DashboardRow(
                       title: '${item['transaction_id']}',
                       subtitle:
-                          '${item['payment_method']} payment with ${( ((item['predicted_probability'] as num?) ?? 0) * 100).toStringAsFixed(1)}% risk score',
+                          '${item['payment_method']} payment with ${(((item['predicted_probability'] as num?) ?? 0) * 100).toStringAsFixed(1)}% risk score',
                     ),
                   )
                   .toList(),
@@ -149,10 +173,11 @@ class _DashboardRow extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       margin: const EdgeInsets.only(bottom: 10),
-      padding: const EdgeInsets.all(14),
+      padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
-        color: const Color(0xFFF7FAF8),
-        borderRadius: BorderRadius.circular(8),
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(18),
+        border: Border.all(color: const Color(0xFFDCE5DF)),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,

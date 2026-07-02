@@ -4,7 +4,7 @@ import '../models/demand_forecast_model.dart';
 
 class InventoryRemoteDataSource {
   InventoryRemoteDataSource({ApiClient? client})
-      : _client = client ?? const ApiClient();
+    : _client = client ?? const ApiClient();
 
   final ApiClient _client;
 
@@ -19,7 +19,9 @@ class InventoryRemoteDataSource {
     final results = response['results'] as List<dynamic>? ?? const [];
     return results
         .take(5)
-        .map((item) => DemandForecastModel.fromJson(item as Map<String, dynamic>))
+        .map(
+          (item) => DemandForecastModel.fromJson(item as Map<String, dynamic>),
+        )
         .toList();
   }
 }

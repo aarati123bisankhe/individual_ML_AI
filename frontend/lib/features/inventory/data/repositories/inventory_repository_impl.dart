@@ -4,7 +4,7 @@ import '../datasources/inventory_remote_data_source.dart';
 
 class InventoryRepositoryImpl implements InventoryRepository {
   InventoryRepositoryImpl({InventoryRemoteDataSource? remoteDataSource})
-      : _remoteDataSource = remoteDataSource ?? InventoryRemoteDataSource();
+    : _remoteDataSource = remoteDataSource ?? InventoryRemoteDataSource();
 
   final InventoryRemoteDataSource _remoteDataSource;
 

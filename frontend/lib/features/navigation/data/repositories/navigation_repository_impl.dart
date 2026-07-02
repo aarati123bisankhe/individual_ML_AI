@@ -4,7 +4,7 @@ import '../datasources/navigation_remote_data_source.dart';
 
 class NavigationRepositoryImpl implements NavigationRepository {
   NavigationRepositoryImpl({NavigationRemoteDataSource? remoteDataSource})
-      : _remoteDataSource = remoteDataSource ?? NavigationRemoteDataSource();
+    : _remoteDataSource = remoteDataSource ?? NavigationRemoteDataSource();
 
   final NavigationRemoteDataSource _remoteDataSource;
 

@@ -4,7 +4,7 @@ import '../datasources/scan_catalog_data_source.dart';
 
 class ScanToPayRepositoryImpl implements ScanToPayRepository {
   ScanToPayRepositoryImpl({ScanCatalogDataSource? dataSource})
-      : _dataSource = dataSource ?? ScanCatalogDataSource();
+    : _dataSource = dataSource ?? ScanCatalogDataSource();
 
   final ScanCatalogDataSource _dataSource;
 
